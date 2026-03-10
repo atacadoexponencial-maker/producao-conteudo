@@ -1,0 +1,4 @@
+assemblyai
+yt-dlp
+gdown
+python-dotenv
