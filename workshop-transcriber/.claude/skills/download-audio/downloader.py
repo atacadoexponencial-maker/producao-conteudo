@@ -1,14 +1,34 @@
 """
-Skill responsável por baixar áudio de links do YouTube ou Google Drive.
+Script responsável por baixar áudio de links do YouTube ou Google Drive.
+
+Uso via CLI:
+    python .claude/skills/download-audio/downloader.py <url>
 """
 
 import os
 import subprocess
+import sys
+import tempfile
 from pathlib import Path
 
 
-# Diretório temporário para salvar os áudios baixados
-AUDIO_DIR = "/tmp/workshop_audio"
+# Diretório temporário para salvar os áudios baixados (cross-platform)
+AUDIO_DIR = str(Path(tempfile.gettempdir()) / "workshop_audio")
+
+# Usa o yt-dlp do mesmo ambiente Python em execução
+YT_DLP = str(Path(sys.executable).parent / "yt-dlp")
+
+# Localiza o ffmpeg: primeiro no PATH, depois no local padrão do winget
+def _encontrar_ffmpeg() -> str | None:
+    """Retorna o caminho do ffmpeg se encontrado, ou None."""
+    import shutil
+    if shutil.which("ffmpeg"):
+        return shutil.which("ffmpeg")
+    # Local padrão do winget no Windows
+    winget_ffmpeg = Path.home() / "AppData/Local/Microsoft/WinGet/Packages"
+    for ffmpeg_bin in winget_ffmpeg.glob("Gyan.FFmpeg_*/ffmpeg-*/bin/ffmpeg.exe"):
+        return str(ffmpeg_bin)
+    return None
 
 
 def _detectar_origem(url: str) -> str:
@@ -32,14 +52,14 @@ def _baixar_youtube(url: str) -> str:
     # Template de saída: usa o título do vídeo como nome do arquivo
     output_template = os.path.join(AUDIO_DIR, "%(title)s.%(ext)s")
 
-    comando = [
-        "yt-dlp",
-        "--extract-audio",
-        "--audio-format", "mp3",
-        "--output", output_template,
-        "--print", "after_move:filepath",
-        url,
-    ]
+    comando = [YT_DLP, "--extract-audio", "--audio-format", "mp3",
+               "--output", output_template, "--print", "after_move:filepath"]
+
+    ffmpeg = _encontrar_ffmpeg()
+    if ffmpeg:
+        comando += ["--ffmpeg-location", str(Path(ffmpeg).parent)]
+
+    comando.append(url)
 
     try:
         resultado = subprocess.run(
@@ -92,4 +112,19 @@ def download_audio(source: str) -> str:
     if origem == "google_drive":
         return _baixar_google_drive(source)
 
-    return "❌ URL não reconhecida. Use um link do YouTube ou Google Drive."
+    raise ValueError("❌ URL não reconhecida. Use um link do YouTube ou Google Drive.")
+
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Uso: python .claude/skills/download-audio/downloader.py <url>")
+        sys.exit(1)
+
+    url = sys.argv[1]
+
+    try:
+        caminho = download_audio(url)
+        print(caminho)
+    except (RuntimeError, ValueError) as e:
+        print(str(e), file=sys.stderr)
+        sys.exit(1)
