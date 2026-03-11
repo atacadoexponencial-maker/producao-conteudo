@@ -10,3 +10,5 @@ if not ASSEMBLYAI_API_KEY:
         "❌ ASSEMBLYAI_API_KEY não encontrada. "
         "Configure o arquivo .env antes de continuar."
     )
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")

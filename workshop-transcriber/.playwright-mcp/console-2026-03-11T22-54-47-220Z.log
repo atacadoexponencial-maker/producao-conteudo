@@ -1,0 +1,69 @@
+[    2379ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    2768ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    2770ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    2992ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    2997ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    3008ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    3015ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    5575ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    5958ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    5967ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    6192ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    6204ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    6212ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    6217ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    8772ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    8777ms] [ERROR] ErrorUtils caught an error:
+
+ [Caught in: Failed call to /ajax/bulk-route-definitions/: CometAyncFetchError: HTTP_CLIENT_ERROR..access-control-allow-credentials: true
+access-control-allow-methods: OPTIONS
+access-control-allow-origin: https://www.instagram.com
+access-control-expose-headers: X-FB-Debug, X-Loader-Length, Error-MID, X-FB-Trace-ID, X-Stack
+alt-svc: h3=":443"; ma=86400
+cache-control: private, no-cache, no-store, must-revalidate
+content-length: 0
+content-security-policy: default-src *.facebook.com *.fbcdn.net *.instagram.com blob:;script-src *.instagram.com static.cdninstagram.com *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'nonce-gc6C31Dn' blob: 'self' 'wasm-unsafe-eval' https://*.google-analytics.com https://translate.google.com https://apis.google.com https://accounts.google.com;style-src *.instagram.com static.cdninstagram.com data: blob: 'unsafe-inline' *.fbcdn.net *.facebook.com https://accounts.google.com;connect-src *.instagram.com wss://edge-chat.instagram.com connect.facebook.net *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* ws://localhost:* blob: *.cdninstagram.com wss://*.instagram.com:* 'self' https://accounts.google.com;font-src *.instagram.com static.cdninstagram.com data: *.fbcdn.net *.intern.facebook.com *.facebook.com https://fonts.gstatic.com;img-src *.instagram.com *.facebook.com *.fbcdn.net data: *.cdninstagram.com *.whatsapp.net blob: *.fbsbx.com android-webview-video-poster: *.oculuscdn.com *.giphy.com *.tenor.co *.tenor.com www.googleadservices.com *.doubleclick.net *.google.com *.google.co.uk https://www.gstatic.com https://*.google-analytics.com;media-src *.facebook.com *.fbcdn.net *.instagram.com *.cdninstagram.com *.fbsbx.com data: blob: https://*.giphy.com *.tenor.co *.tenor.com;child-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;frame-src *.instagram.com *.facebook.com *.fbsbx.com fbsbx.com data: www.googleadservices.com *.doubleclick.net *.google.com *.google.co.uk;manifest-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;object-src *.facebook.com *.fbcdn.net *.instagram.com data: blob:;block-all-mixed-content;upgrade-insecure-requests;
+content-type: text/html; charset="utf-8"
+cross-origin-opener-policy: same-origin-allow-popups
+cross-origin-resource-policy: same-site
+date: Wed, 11 Mar 2026 22:54:57 GMT
+document-policy: force-load-at-top, include-js-call-stacks-in-crash-reports
+expires: Sat, 01 Jan 2000 00:00:00 GMT
+origin-agent-cluster: ?1
+origin-trial: ApxEQ+svJ/BvQ8JtSJdDsnwv/gOXedkcox0XU8+snS3w6b4nSgDoyEms+0jGopE4SIRVvlqJmzPHqZYbkP0sxwgAAAB1eyJvcmlnaW4iOiJodHRwczovL3d3dy5mYWNlYm9vay5jb206NDQzIiwiZmVhdHVyZSI6IkNyYXNoUmVwb3J0aW5nU3RvcmFnZUFQSSIsImV4cGlyeSI6MTc3NjcyOTYwMCwiaXNTdWJkb21haW4iOnRydWV9
+permissions-policy: accelerometer=(self), attribution-reporting=(), autoplay=(), bluetooth=(), camera=(self), ch-device-memory=(), ch-downlink=(), ch-dpr=(), ch-ect=(), ch-rtt=(), ch-save-data=(), ch-ua-arch=(), ch-ua-bitness=(), ch-viewport-height=(), ch-viewport-width=(), ch-width=(), clipboard-read=(), clipboard-write=(self), compute-pressure=(), display-capture=(self), encrypted-media=(), fullscreen=(self), gamepad=(), geolocation=(self), gyroscope=(self), hid=(), idle-detection=(), interest-cohort=(), keyboard-map=(), local-fonts=(), magnetometer=(), microphone=(self), midi=(), otp-credentials=(self), payment=(), picture-in-picture=(self), private-state-token-issuance=(), publickey-credentials-get=(self "https://*.facebook.com" "https://facebook.com"), screen-wake-lock=(), serial=(), shared-storage=(), shared-storage-select-url=(), private-state-token-redemption=(), usb=(), unload=(self), window-management=(), xr-spatial-tracking=();report-to="permissions_policy"
+pragma: no-cache
+priority: u=1,i
+proxy-status: http_request_error; e_fb_vipaddr="AcNRSJtvRhuJCAyo9QWDfAWZOhBcNWhAOdNi_Dfs7h8oyh-EqP_q3FD--YBe_oEM3sytVpKrhidVOiMJBbuTZg4672T89dXQiu6gaZN-"; e_clientaddr="AcMmZAawHbX0Dt5OlztG4GIjc0GbLmYYPiTtwHymGxraevi2GhgWck0gmzbKqe8-XgZm53T69odvu5pykZLHiwKffp-s0ckV5Ksogf1DLmbtLmLiSA"; e_upip="AcPV-U8GQfdD602_Juy8nI5p7LzaRAj6VgLvhWDMwA1GrljqgG_pMDBkup_HfBJytLqgG7Qo1T3_zIdVB92pyNOJOBdrvKKS0Xh1hh7-Zw"; e_fb_zone="AcPl1HM2vb1TwgUrmZCDgeedNysX3CV-KhHmkbJt4FTBc4WiItcd8-_17CW5wQMP"; e_fb_twtaskhandle="AcMcXAPpS87sb7C55qUzRy172Y_Yy3aMwg43Nv9wN9mqjlafqiKG1dDYjP1xv3e-tlcrDz8a1cujpqVSzCZMmWQ-iQAk7Vv1a6aj1OFELw"; e_proxy="AcMgeK7iWkBOKwpL7KrqiUzbIAXFpDvYwDXO2mOG6pEb4Qci4S1l4RcWOFiQ6VmeOMq1mdmZMycgOC6jJOE", http_request_error; e_fb_vipaddr="AcM2aWxU_wvrpeSExpZU-aHc9DG4LB48j4kT2uBhCMUhUAyr6rJvUZaGL5v6JmOozpecxsD3avf_JpLnBbjx_o9r_cEQrJiDIpXP8A"; e_clientaddr="AcM08_lfuEY1whIiS-fEEdMzr3qNr-zGedW3_f0U-OqXHxtmJ-iBwGtA7-BYT819OqI-KBjUzkHVmlqJYsHH9nTWlbHrzacmR8kPLLqdt7BdN34CaZr6"; e_upip="AcPNw1w5-4c7hvVHBo_Xz5zF4ih27lZhpubqkFj5nVRuaYO06UG49QpYMMTI2UHug9f4wO62nZVgjv9uy6v30vvLylAahtJHZvwU9wmz"; e_fb_zone="AcOlAbqs45xG63_vvT2b47RgpYdX6iWzeZtChGJ-4m72efGcQx0khckNkhjhrg"; e_fb_twtaskhandle="AcPy3IVgPSOmpvr-nb0NMpvY9ovA3NavSNBHIqYOaWfAC4CHMsqo5pkqiESb5RsP7gqGl-gFpg_SWnn_QXkaQDW7StpC0B4dgigpT6s"; e_proxy="AcMgCb6H1GDVAY4yGQRxpSo9MSSqgiOm-DGzxtKQwKVwBqzJHxects8y5ZmXerjFHxgVijjiGRyckgI"
+report-to: {"max_age":2592000,"endpoints":[{"url":"https:\/\/www.facebook.com\/browser_reporting\/coop\/?minimize=0"}],"group":"coop_report","include_subdomains":true}, {"max_age":259200,"endpoints":[{"url":"https:\/\/www.instagram.com\/error\/ig_web_error_reports\/?device_level=unknown&brsid=7616135357488369891&comet_app_key=7&cpp=C3&cv=1034965219&st=1773269697134"}]}
+reporting-endpoints: coop_report="https://www.facebook.com/browser_reporting/coop/?minimize=0", default="https://www.instagram.com/error/ig_web_error_reports/?device_level=unknown&brsid=7616135357488369891&comet_app_key=7&cpp=C3&cv=1034965219&st=1773269697134"
+strict-transport-security: max-age=31536000; preload; includeSubDomains
+vary: Origin
+x-content-type-options: nosniff
+x-fb-connection-quality: EXCELLENT; q=0.9, rtt=25, rtx=0, c=59, mss=1232, tbw=239955, tp=290, tpl=0, uplat=150, ullat=0
+x-fb-debug: q8UPbk7OiFke2QbI4buQIKRvGSGlP5jkeJ5TZFIvrL139+cHvmN0zVyUe3ViVYLEWzpnw3XrY3oNaNntwWLSrw==
+x-frame-options: DENY
+x-stack: www
+x-xss-protection: 0
+.XMLHttpRequest.HTTP 429.]
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. {clientTime: 1773269695, extra: Object, guardList: Array(0), hash: v2kapn, isNormalizedError: true} @ https://static.cdninstagram.com/rsrc.php/v4/y0/r/UkqksEsMiUV.js:77
+[    9156ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    9164ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    9385ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    9393ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    9408ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[    9410ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  250745ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  253928ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  257118ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  316382ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  316874ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  316875ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  317171ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  317182ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  319567ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  320058ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  320058ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  320350ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
+[  320363ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://www.instagram.com/ajax/bulk-route-definitions/:0
