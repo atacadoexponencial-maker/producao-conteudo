@@ -1,5 +1,858 @@
 # Transcrições de Workshops
 
+## insta_DC690moROTl
+
+# insta_DC690moROTl
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 31s
+- **Locutores identificados:** 2
+
+## Transcrição por Locutor
+
+**[00:04] Speaker A**
+sempre
+
+**[00:05] Speaker B**
+insire o seu cliente a vender o produto que vocÃª estÃ¡ vendendo para ele.
+
+## Transcrição Completa
+
+sempre insire o seu cliente a vender o produto que vocÃª estÃ¡ vendendo para ele.
+
+
+---
+
+## insta_DDNt0ckxcBh
+
+# insta_DDNt0ckxcBh
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 26s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+o Ãºnico mÃ©todo dedicado ao mercado atacado para vocÃª poder conquistar novos clientes na sua marca. VocÃª terÃ¡ funis de vendas como esses para poder gerar demanda todos os dias e leads qualificados com controle avanÃ§ado de metas para seu time comercial fazer vendas todas as semanas. E assim, as vendas do seu atacado vai ser uma questÃ£o de matemÃ¡tica e nÃ£o mais de milagre. NÃ³s podemos analisar o teu modelo de negÃ³cio, a sua marca atacado e te mostrar
+
+## Transcrição Completa
+
+o Ãºnico mÃ©todo dedicado ao mercado atacado para vocÃª poder conquistar novos clientes na sua marca. VocÃª terÃ¡ funis de vendas como esses para poder gerar demanda todos os dias e leads qualificados com controle avanÃ§ado de metas para seu time comercial fazer vendas todas as semanas. E assim, as vendas do seu atacado vai ser uma questÃ£o de matemÃ¡tica e nÃ£o mais de milagre. NÃ³s podemos analisar o teu modelo de negÃ³cio, a sua marca atacado e te mostrar
+
+
+---
+
+## insta_DFdmEmlxu1D
+
+# insta_DFdmEmlxu1D
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 39s
+- **Locutores identificados:** 2
+
+## Transcrição por Locutor
+
+**[00:00] Speaker B**
+Dono de atacado, vocÃª que trabalha com varejo tambÃ©m, vou te fazer uma pergunta importante. Por que vocÃª dedica mais tempo, energia e dinheiro no seu varejo se o atacado representa igual ou a maior parte do seu faturamento? A verdade Ã© que o atacado, na maioria das vezes, fica em segundo plano, por causa de algumas crenÃ§as limitantes que vocÃª jÃ¡ ouviu por aÃ­.
+
+**[00:15] Speaker A**
+Ah, o atacado vai morrer. Atacado nÃ£o funciona.
+
+**[00:18] Speaker B**
+e outras tantas baboseias. Agora imagine o seguinte, vocÃª jÃ¡ tem um percentual exponencial de faturamento com o seu atacado, mesmo sem estratÃ©gia, tempo e investimento adequado. Como seria se realmente vocÃª dedicasse tempo para poder desenvolver uma estratÃ©gia exclusiva para esse mercado? Comente exponencial e aplique para uma vaga para poder receber uma consultoria individual gratuita com o meu time de especialistas.
+
+## Transcrição Completa
+
+Dono de atacado, vocÃª que trabalha com varejo tambÃ©m, vou te fazer uma pergunta importante. Por que vocÃª dedica mais tempo, energia e dinheiro no seu varejo se o atacado representa igual ou a maior parte do seu faturamento? A verdade Ã© que o atacado, na maioria das vezes, fica em segundo plano, por causa de algumas crenÃ§as limitantes que vocÃª jÃ¡ ouviu por aÃ­. Ah, o atacado vai morrer. Atacado nÃ£o funciona. e outras tantas baboseias. Agora imagine o seguinte, vocÃª jÃ¡ tem um percentual exponencial de faturamento com o seu atacado, mesmo sem estratÃ©gia, tempo e investimento adequado. Como seria se realmente vocÃª dedicasse tempo para poder desenvolver uma estratÃ©gia exclusiva para esse mercado? Comente exponencial e aplique para uma vaga para poder receber uma consultoria individual gratuita com o meu time de especialistas.
+
+
+---
+
+## insta_DFL_Hd_xuuV
+
+# insta_DFL_Hd_xuuV
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 38s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Como vender todo santo dia no seu atacado? Leandro de Atacado, deixa eu adivinhar. VocÃª tambÃ©m acha que vender todo santo dia Ã© papo furado, nÃ©? Mas nÃ£o. A real Ã© que o mercado atacado dormiu no ponto. Eu vou explicar. Acontece que o varejo jÃ¡ entendeu como Ã© que funciona o jogo digital, enquanto o atacado ficou pra trÃ¡s. E aqui vai o ouro. Pra vocÃª poder conseguir vender todo santo dia no seu atacado, vocÃª precisa de estratÃ©gias prÃ³prias e dedicadas pro mercado atacado. Sem isso, vocÃª vai ser sÃ³ mais um na fila dos frustrados. Atacado Ã© venda complexa e pra isso vocÃª precisa de uma estratÃ©gia um material com os principais e obrigatÃ³rios fundiÃ§os para uma marca atacada.
+
+## Transcrição Completa
+
+Como vender todo santo dia no seu atacado? Leandro de Atacado, deixa eu adivinhar. VocÃª tambÃ©m acha que vender todo santo dia Ã© papo furado, nÃ©? Mas nÃ£o. A real Ã© que o mercado atacado dormiu no ponto. Eu vou explicar. Acontece que o varejo jÃ¡ entendeu como Ã© que funciona o jogo digital, enquanto o atacado ficou pra trÃ¡s. E aqui vai o ouro. Pra vocÃª poder conseguir vender todo santo dia no seu atacado, vocÃª precisa de estratÃ©gias prÃ³prias e dedicadas pro mercado atacado. Sem isso, vocÃª vai ser sÃ³ mais um na fila dos frustrados. Atacado Ã© venda complexa e pra isso vocÃª precisa de uma estratÃ©gia um material com os principais e obrigatÃ³rios fundiÃ§os para uma marca atacada.
+
+
+---
+
+## insta_DGgHQibx9jv
+
+# insta_DGgHQibx9jv
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 58s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Essa Ã© a clÃ¡ssica. Qual a receita para alcanÃ§ar pÃºblico atacado na internet porque sÃ³ chega varejo? ComunicaÃ§Ã£o. Se vocÃª estÃ¡ atraindo cliente final, cliente varejo, quer dizer que vocÃª tem um problema de comunicaÃ§Ã£o na sua marca atacado. Quanto menor o nicho que vocÃª se conecta, mais intencional e preciso precisa ser a sua comunicaÃ§Ã£o, a sua mensagem. Uma marca varejo comunica para um pÃºblico mais amplo, independente se ela Ã© nichada, por exemplo, moda nataÃ§Ã£o, moda fitness, moda praia. Comparado com o nosso mercado alvo, atacado, seja lojista, revendedores, empreendedores, ainda assim, cada um dentro do seu nicho Ã© um mercado relativamente mais especÃ­fico, menor. EntÃ£o, o primeiro passo para vocÃª poder alcanÃ§ar o pÃºblico atacado Ã© desenvolver o seu mapa de linguagem, identificando as dores, desejos, necessidades, que o teu perfil de cliente ideal tem, e atravÃ©s desse quadro desenvolver conteÃºdos intencionais e estratÃ©gicos para comunicar com o seu mercado-alvo.
+
+## Transcrição Completa
+
+Essa Ã© a clÃ¡ssica. Qual a receita para alcanÃ§ar pÃºblico atacado na internet porque sÃ³ chega varejo? ComunicaÃ§Ã£o. Se vocÃª estÃ¡ atraindo cliente final, cliente varejo, quer dizer que vocÃª tem um problema de comunicaÃ§Ã£o na sua marca atacado. Quanto menor o nicho que vocÃª se conecta, mais intencional e preciso precisa ser a sua comunicaÃ§Ã£o, a sua mensagem. Uma marca varejo comunica para um pÃºblico mais amplo, independente se ela Ã© nichada, por exemplo, moda nataÃ§Ã£o, moda fitness, moda praia. Comparado com o nosso mercado alvo, atacado, seja lojista, revendedores, empreendedores, ainda assim, cada um dentro do seu nicho Ã© um mercado relativamente mais especÃ­fico, menor. EntÃ£o, o primeiro passo para vocÃª poder alcanÃ§ar o pÃºblico atacado Ã© desenvolver o seu mapa de linguagem, identificando as dores, desejos, necessidades, que o teu perfil de cliente ideal tem, e atravÃ©s desse quadro desenvolver conteÃºdos intencionais e estratÃ©gicos para comunicar com o seu mercado-alvo.
+
+
+---
+
+## insta_DHb-zT4xOhG
+
+# insta_DHb-zT4xOhG
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 1min 5s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Na dÃºvida se eu vou para o varejo ou para o atacado. No caso, vocÃª tem uma marca que vende tanto varejo quanto atacado e a sua dÃºvida Ã© justamente qual vocÃª escala mais. Essa Ã© uma dÃºvida muito comum entre os nossos mentorados e clientes. E o meu principal conselho para situaÃ§Ãµes assim Ã© a tradicional regra de pareto. Qual Ã© o seu 80-20? De onde vem a maior parte do seu faturamento? Geralmente as respostas por aqui sÃ£o no atacado. Em casos, por exemplo, de 90 a 95 por 5, ou seja, apenas 5% do fatoramento representa o varejo. Turma, ter atacado o varejo numa mesma marca Ã© um desafio, Ã© um jogo avanÃ§ado de pessoas, de comunicaÃ§Ã£o, de estratÃ©gia. E a maioria de nÃ³s, sendo muito sincero, nÃ³s nÃ£o estamos prontos pra poder jogar esse tipo de jogo por uma simples questÃ£o de investimento. SÃ£o praticamente duas marcas. Bom, em casos assim, o meu conselho Ã© bem transparente. Fecha o varejo, nicha sua marca atacado, tenha uma comunicaÃ§Ã£o muito mais precisa e escala. Faz sentido?
+
+## Transcrição Completa
+
+Na dÃºvida se eu vou para o varejo ou para o atacado. No caso, vocÃª tem uma marca que vende tanto varejo quanto atacado e a sua dÃºvida Ã© justamente qual vocÃª escala mais. Essa Ã© uma dÃºvida muito comum entre os nossos mentorados e clientes. E o meu principal conselho para situaÃ§Ãµes assim Ã© a tradicional regra de pareto. Qual Ã© o seu 80-20? De onde vem a maior parte do seu faturamento? Geralmente as respostas por aqui sÃ£o no atacado. Em casos, por exemplo, de 90 a 95 por 5, ou seja, apenas 5% do fatoramento representa o varejo. Turma, ter atacado o varejo numa mesma marca Ã© um desafio, Ã© um jogo avanÃ§ado de pessoas, de comunicaÃ§Ã£o, de estratÃ©gia. E a maioria de nÃ³s, sendo muito sincero, nÃ³s nÃ£o estamos prontos pra poder jogar esse tipo de jogo por uma simples questÃ£o de investimento. SÃ£o praticamente duas marcas. Bom, em casos assim, o meu conselho Ã© bem transparente. Fecha o varejo, nicha sua marca atacado, tenha uma comunicaÃ§Ã£o muito mais precisa e escala. Faz sentido?
+
+
+---
+
+## insta_DHUh-G4xPV0
+
+# insta_DHUh-G4xPV0
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 1min 53s
+- **Locutores identificados:** 2
+
+## Transcrição por Locutor
+
+**[00:00] Speaker B**
+Time comercial campeÃ£o ou time de marketing campeÃ£o?
+
+**[00:03] Speaker A**
+Para escalar vocÃª precisa dos dois, teoricamente, mas como Ã© para escolher um?
+
+**[00:06] Speaker B**
+PÃ©, para escalar minha marca no Atacado, o que Ã© mais importante? Venda presencial ou venda pela internet?
+
+**[00:13] Speaker A**
+Venda pela internet, com certeza.
+
+**[00:14] Speaker B**
+Venda pela internet com e-commerce ou vendas humanizadas?
+
+**[00:17] Speaker A**
+Boa pergunta. Se vocÃª quer escalar, um dos principais indicadores Ã© aquisiÃ§Ã£o de novos clientes. No Atacado, o melhor canal para conversÃ£o de novos clientes, sem dÃºvida, sÃ£o canais humanizados. EntÃ£o, no caso, eu escolho aqui canais humanizados.
+
+**[00:29] Speaker B**
+Esperar o cliente vir atÃ© mim ou criar demanda?
+
+**[00:33] Speaker A**
+Bom, se vocÃª nÃ£o criar demanda no atacado, vocÃª nunca vende. EntÃ£o, sem dÃºvidas, criaÃ§Ã£o de demanda.
+
+**[00:38] Speaker B**
+Time comercial campeÃ£o ou time de marketing campeÃ£o?
+
+**[00:42] Speaker A**
+Para escalar, vocÃª precisa dos dois, teoricamente. Mas como Ã© para escolher um? Se vocÃª tiver um time de marketing bom, mas um time de vendas ruim, um atacado vocÃª nÃ£o vende, porque o atacado Ã© venda consultiva, relacionamento. Agora, se vocÃª tiver um time de marketing ruim, mas um comercial bom, vocÃª vende. EntÃ£o, no caso, eu escolho o time comercial campeÃ£o.
+
+**[01:06] Speaker B**
+Funil Ãºnico ou mais de um funil ativo ao mesmo tempo?
+
+**[01:09] Speaker A**
+Boa. Justamente por o atacado ser a venda mais complexa, mais consultiva, entÃ£o exige geralmente um ciclo de vendas e compras mais alongados. A Ãºnica maneira para a gente poder encurtar um pouco mais esse ciclo, gerando receita mais rÃ¡pida, Ã© com empilhamento de funis, ou seja, mÃºltiplos funis.
+
+**[01:29] Speaker B**
+Ter um vendedor sÃ³ ou um time dividido em expansÃ£o e retenÃ§Ã£o?
+
+**[01:34] Speaker A**
+Sem dÃºvidas, dividir o time de expansÃ£o para que eles sejam os nossos clientes e o time de retenÃ§Ã£o para poder aumentar o tempo de vida desses clientes ativos.
+
+**[01:43] Speaker B**
+E como que faz para aprender a fazer tudo isso de maneira correta?
+
+**[01:46] Speaker A**
+TÃ¡, mas essa Ã© a mais simples. Comente aqui atacado que a gente vai te mostrar o caminho.
+
+## Transcrição Completa
+
+Time comercial campeÃ£o ou time de marketing campeÃ£o? Para escalar vocÃª precisa dos dois, teoricamente, mas como Ã© para escolher um? PÃ©, para escalar minha marca no Atacado, o que Ã© mais importante? Venda presencial ou venda pela internet? Venda pela internet, com certeza. Venda pela internet com e-commerce ou vendas humanizadas? Boa pergunta. Se vocÃª quer escalar, um dos principais indicadores Ã© aquisiÃ§Ã£o de novos clientes. No Atacado, o melhor canal para conversÃ£o de novos clientes, sem dÃºvida, sÃ£o canais humanizados. EntÃ£o, no caso, eu escolho aqui canais humanizados. Esperar o cliente vir atÃ© mim ou criar demanda? Bom, se vocÃª nÃ£o criar demanda no atacado, vocÃª nunca vende. EntÃ£o, sem dÃºvidas, criaÃ§Ã£o de demanda. Time comercial campeÃ£o ou time de marketing campeÃ£o? Para escalar, vocÃª precisa dos dois, teoricamente. Mas como Ã© para escolher um? Se vocÃª tiver um time de marketing bom, mas um time de vendas ruim, um atacado vocÃª nÃ£o vende, porque o atacado Ã© venda consultiva, relacionamento. Agora, se vocÃª tiver um time de marketing ruim, mas um comercial bom, vocÃª vende. EntÃ£o, no caso, eu escolho o time comercial campeÃ£o. Funil Ãºnico ou mais de um funil ativo ao mesmo tempo? Boa. Justamente por o atacado ser a venda mais complexa, mais consultiva, entÃ£o exige geralmente um ciclo de vendas e compras mais alongados. A Ãºnica maneira para a gente poder encurtar um pouco mais esse ciclo, gerando receita mais rÃ¡pida, Ã© com empilhamento de funis, ou seja, mÃºltiplos funis. Ter um vendedor sÃ³ ou um time dividido em expansÃ£o e retenÃ§Ã£o? Sem dÃºvidas, dividir o time de expansÃ£o para que eles sejam os nossos clientes e o time de retenÃ§Ã£o para poder aumentar o tempo de vida desses clientes ativos. E como que faz para aprender a fazer tudo isso de maneira correta? TÃ¡, mas essa Ã© a mais simples. Comente aqui atacado que a gente vai te mostrar o caminho.
+
+
+---
+
+## insta_DIjwH4GxWEt
+
+# insta_DIjwH4GxWEt
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 55s
+- **Locutores identificados:** 2
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+A tacadista, essa Ã© a Keren, dona da EssÃªncia de Menina, uma marca 100% tacado, de modo infantil, que tem o perfil de cliente ideal logista. Escuta.
+
+**[00:07] Speaker B**
+Pelo menos uns 40% foi responsÃ¡vel do trÃ¡fego esse mÃªs.
+
+**[00:11] Speaker A**
+Ela acabou de dizer que 40% das vendas do Ãºltimo mÃªs foi responsÃ¡vel pelo trÃ¡fego. Detalhe, essa marca fatura mais de seis dÃ­gitos por mÃªs. Escuta um pouquinho mais.
+
+**[00:18] Speaker B**
+no pÃºblico que tÃ¡ chegando, tÃ¡ chegando em um pÃºblico bem objetivo, uma mÃ©dia de quase 100 seguidores por dia. Acho que o perfil, na hora que o cliente cai ali, ele encontra muitas informaÃ§Ãµes, entÃ£o acaba que passa uma credibilidade maior. Isso fez com que a gente conseguisse muitos clientes de primeiro instante, assim, sem precisar tirar muitas dÃºvidas, caindo atrÃ¡s do cliente que entrou em contato.
+
+**[00:38] Speaker A**
+Perceba, ela menciona que o pÃºblico Ã© muito qualificado, o perfil tÃ¡ crescendo, tÃ¡ gerando vendas constantes para novos clientes. Para acesso a um mÃ©todo de vendas validado e prÃ³prio para atacadistas que querem escalar aqui pela internet, comente atacado ou clique no botÃ£o e saiba mais.
+
+## Transcrição Completa
+
+A tacadista, essa Ã© a Keren, dona da EssÃªncia de Menina, uma marca 100% tacado, de modo infantil, que tem o perfil de cliente ideal logista. Escuta. Pelo menos uns 40% foi responsÃ¡vel do trÃ¡fego esse mÃªs. Ela acabou de dizer que 40% das vendas do Ãºltimo mÃªs foi responsÃ¡vel pelo trÃ¡fego. Detalhe, essa marca fatura mais de seis dÃ­gitos por mÃªs. Escuta um pouquinho mais. no pÃºblico que tÃ¡ chegando, tÃ¡ chegando em um pÃºblico bem objetivo, uma mÃ©dia de quase 100 seguidores por dia. Acho que o perfil, na hora que o cliente cai ali, ele encontra muitas informaÃ§Ãµes, entÃ£o acaba que passa uma credibilidade maior. Isso fez com que a gente conseguisse muitos clientes de primeiro instante, assim, sem precisar tirar muitas dÃºvidas, caindo atrÃ¡s do cliente que entrou em contato. Perceba, ela menciona que o pÃºblico Ã© muito qualificado, o perfil tÃ¡ crescendo, tÃ¡ gerando vendas constantes para novos clientes. Para acesso a um mÃ©todo de vendas validado e prÃ³prio para atacadistas que querem escalar aqui pela internet, comente atacado ou clique no botÃ£o e saiba mais.
+
+
+---
+
+## insta_DK8BEKIOSQt
+
+# insta_DK8BEKIOSQt
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 33s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Atacadista, vocÃª manda o catÃ¡logo no WhatsApp e o seu cliente some? Talvez seja porque ele esteja perdido. A verdade Ã©, catÃ¡logo de primeira compra nÃ£o joga tudo de uma vez. Ele tem que guiar a primeira compra de forma estratÃ©gica. Aqui vÃ£o trÃªs ajustes simples que ajudam nessa performance comercial do catÃ¡logo. Comece pelos produtos campeÃµes mais vendidos. Agrupe sempre por categorias. Inclua uma pÃ¡gina com o teu mÃ©todo de revenda, no mÃ­nimo com polÃ­tica de primeira compra e como comprar no Atacado. CatÃ¡logo no Atacado nÃ£o Ã© uma vitrine de produtos. Ã‰ uma ferramenta estratÃ©gica de venda. Quer saber mais sobre Marketing Atacado? LÃª a legenda.
+
+## Transcrição Completa
+
+Atacadista, vocÃª manda o catÃ¡logo no WhatsApp e o seu cliente some? Talvez seja porque ele esteja perdido. A verdade Ã©, catÃ¡logo de primeira compra nÃ£o joga tudo de uma vez. Ele tem que guiar a primeira compra de forma estratÃ©gica. Aqui vÃ£o trÃªs ajustes simples que ajudam nessa performance comercial do catÃ¡logo. Comece pelos produtos campeÃµes mais vendidos. Agrupe sempre por categorias. Inclua uma pÃ¡gina com o teu mÃ©todo de revenda, no mÃ­nimo com polÃ­tica de primeira compra e como comprar no Atacado. CatÃ¡logo no Atacado nÃ£o Ã© uma vitrine de produtos. Ã‰ uma ferramenta estratÃ©gica de venda. Quer saber mais sobre Marketing Atacado? LÃª a legenda.
+
+
+---
+
+## insta_DKci60FxhJZ
+
+# insta_DKci60FxhJZ
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 1min
+- **Locutores identificados:** 3
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Atacadista essa Ã© a Viviane, dona da Aniv, uma marca 100% atacada de moda fitness, que tem como perfil de cliente ideal o Logista.
+
+**[00:06] Speaker B**
+Ela acaba
+
+**[00:14] Speaker A**
+de dizer que com poucos dias de anÃºncios ativos, ela conseguiu fechar quatro novos clientes com um ticket mÃ©dio de primeira compra de R$ 2 mil. Inclusive teve
+
+**[00:21] Speaker C**
+uma venda, uma nova revendedora e ela comprou 4 mil reais na primeira compra dela.
+
+**[00:25] Speaker A**
+Detalhe, como tudo isso aconteceu logo nos primeiros dias e anos dos ativos, nÃ³s tÃ­nhamos investido apenas 321 reais. Mas Ã© claro, eu concordo com vocÃª que isso parece ser meio suspeito. Sem um contexto por trÃ¡s Ã© fÃ¡cil a gente achar que isso Ã© mentira, mas vamos lÃ¡. O que acontece Ã© que bem antes de fazer trÃ¡fego pago, foi desenvolvido um trabalho de base de Instagram pra Marca Atacado e de treinamento comercial exponencial. Isso fez com que o pÃºblico se autocualificasse dentro do perfil. Quando tivÃ©ssemos o primeiro contato de forma passiva ou de forma ativa, nÃ³s tÃ­nhamos uma estratÃ©gia comercial pronta para poder converter. Se vocÃª quer ter acesso a um mÃ©todo de vendas validado, prÃ³prio para marcas atacado, que buscam constÃ¢ncia nas vendas aqui na internet, comente atacado ou clique em algum botÃ£o aqui da tela.
+
+## Transcrição Completa
+
+Atacadista essa Ã© a Viviane, dona da Aniv, uma marca 100% atacada de moda fitness, que tem como perfil de cliente ideal o Logista. Ela acaba de dizer que com poucos dias de anÃºncios ativos, ela conseguiu fechar quatro novos clientes com um ticket mÃ©dio de primeira compra de R$ 2 mil. Inclusive teve uma venda, uma nova revendedora e ela comprou 4 mil reais na primeira compra dela. Detalhe, como tudo isso aconteceu logo nos primeiros dias e anos dos ativos, nÃ³s tÃ­nhamos investido apenas 321 reais. Mas Ã© claro, eu concordo com vocÃª que isso parece ser meio suspeito. Sem um contexto por trÃ¡s Ã© fÃ¡cil a gente achar que isso Ã© mentira, mas vamos lÃ¡. O que acontece Ã© que bem antes de fazer trÃ¡fego pago, foi desenvolvido um trabalho de base de Instagram pra Marca Atacado e de treinamento comercial exponencial. Isso fez com que o pÃºblico se autocualificasse dentro do perfil. Quando tivÃ©ssemos o primeiro contato de forma passiva ou de forma ativa, nÃ³s tÃ­nhamos uma estratÃ©gia comercial pronta para poder converter. Se vocÃª quer ter acesso a um mÃ©todo de vendas validado, prÃ³prio para marcas atacado, que buscam constÃ¢ncia nas vendas aqui na internet, comente atacado ou clique em algum botÃ£o aqui da tela.
+
+
+---
+
+## insta_DL5IIZmOMzW
+
+# insta_DL5IIZmOMzW
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 30s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+como garantir que o seu cliente atacado volte e compre ainda mais da prÃ³xima vez. Fechou o pedido? Uma nova parceria com o novo revendedor Ã© agora que comeÃ§am os passos mais importantes. AliÃ¡s, um novo cliente atacado nÃ£o Ã© barato, entÃ£o vocÃª deve fazer um bom onboard. Mensagem de boas-vindas compartilhando os entregÃ¡veis do teu mÃ©todo de revenda, acesso exclusivo a um grupo de clientes ativo, acesso Ã  pasta de sell-out com materiais de divulgaÃ§Ã£o, suporte, polÃ­ticas, uma ligaÃ§Ã£o ou um Ã¡udio ou um vÃ­deo do dono da marca atacado desejando sucesso na nova parceria. Clientes encantados compram de novo. VocÃª sÃ³ precisa comeÃ§ar com o pÃ© direito. Quer saber mais sobre o universo do marketing atacado? Leia a legenda.
+
+## Transcrição Completa
+
+como garantir que o seu cliente atacado volte e compre ainda mais da prÃ³xima vez. Fechou o pedido? Uma nova parceria com o novo revendedor Ã© agora que comeÃ§am os passos mais importantes. AliÃ¡s, um novo cliente atacado nÃ£o Ã© barato, entÃ£o vocÃª deve fazer um bom onboard. Mensagem de boas-vindas compartilhando os entregÃ¡veis do teu mÃ©todo de revenda, acesso exclusivo a um grupo de clientes ativo, acesso Ã  pasta de sell-out com materiais de divulgaÃ§Ã£o, suporte, polÃ­ticas, uma ligaÃ§Ã£o ou um Ã¡udio ou um vÃ­deo do dono da marca atacado desejando sucesso na nova parceria. Clientes encantados compram de novo. VocÃª sÃ³ precisa comeÃ§ar com o pÃ© direito. Quer saber mais sobre o universo do marketing atacado? Leia a legenda.
+
+
+---
+
+## insta_DLgFEIwuFY2
+
+# insta_DLgFEIwuFY2
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 21s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Se vocÃª Ã© uma marca atacado e nÃ£o faz estratÃ©gias prÃ³prias de atacado, tÃ¡ deixando muito dinheiro na mesa. No varejo Ã© transacional, atacado Ã© consultivo. No varejo o ciclo de venda Ã© mais curto, no atacado Ã© mais alongado. No varejo a venda Ã© emocional, no atacado Ã© racional. No varejo falamos com persona, no atacado a gente nÃ£o fala com persona, a gente fala com ICP, perfil de cliente ideal real. Quer saber mais sobre marketing atacado? LÃª a legenda.
+
+## Transcrição Completa
+
+Se vocÃª Ã© uma marca atacado e nÃ£o faz estratÃ©gias prÃ³prias de atacado, tÃ¡ deixando muito dinheiro na mesa. No varejo Ã© transacional, atacado Ã© consultivo. No varejo o ciclo de venda Ã© mais curto, no atacado Ã© mais alongado. No varejo a venda Ã© emocional, no atacado Ã© racional. No varejo falamos com persona, no atacado a gente nÃ£o fala com persona, a gente fala com ICP, perfil de cliente ideal real. Quer saber mais sobre marketing atacado? LÃª a legenda.
+
+
+---
+
+## insta_DLm2L3_OUoq
+
+# insta_DLm2L3_OUoq
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 35s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Quem manda, de fato, no Atacado? O marketing ou o comercial? Bom, no Atacado, o principal papel de gerar vendas nÃ£o Ã© do marketing, Ã© do comercial. Um pouco diferente do varejo. No varejo, o marketing Ã© rei. Ele gera desejo e, com isso, gera as vendas transnacionais. No Atacado, a venda nÃ£o Ã© transnacional. Ã‰ uma venda complexa, uma venda consultiva. EntÃ£o, nesse caso, quem brilha Ã© o time comercial. Ele entende o perfil do cliente ideal, gera confianÃ§a, o que Ã© muito importante no Atacado, e, com isso, gera pedido. O marketing ele atrai, mas fecha a venda Ã© o comercial. Se vocÃª quer saber como construir um time comercial campeÃ£o para marcas atacado aqui na internet, leia a legenda.
+
+## Transcrição Completa
+
+Quem manda, de fato, no Atacado? O marketing ou o comercial? Bom, no Atacado, o principal papel de gerar vendas nÃ£o Ã© do marketing, Ã© do comercial. Um pouco diferente do varejo. No varejo, o marketing Ã© rei. Ele gera desejo e, com isso, gera as vendas transnacionais. No Atacado, a venda nÃ£o Ã© transnacional. Ã‰ uma venda complexa, uma venda consultiva. EntÃ£o, nesse caso, quem brilha Ã© o time comercial. Ele entende o perfil do cliente ideal, gera confianÃ§a, o que Ã© muito importante no Atacado, e, com isso, gera pedido. O marketing ele atrai, mas fecha a venda Ã© o comercial. Se vocÃª quer saber como construir um time comercial campeÃ£o para marcas atacado aqui na internet, leia a legenda.
+
+
+---
+
+## insta_DM_aVEBuTN3
+
+# insta_DM_aVEBuTN3
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 39s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+O dono de atacado, vocÃª tem a impressÃ£o que o seu cliente quase manda em vocÃª? E JoÃ£o, eu vou te dizer aqui que isso Ã© culpa sua. Quando a sua marca nÃ£o tem uma entrada constante de novos clientes e novos revendedores, vocÃª acaba ficando refÃ©m dos seus clientes ativos, dos mesmos clientes sempre. AÃ­ o que acontece? Corre pra cima e pra baixo pra poder atender cliente bem. DÃ¡ desconto quando nÃ£o podia e nÃ£o queria. Perdoa o atraso de pagamento. Vive com medo de perder o seu cliente. E o pior, eles percebem que vocÃª precisa mais deles do que eles de vocÃª. VocÃª quer sair desse ciclo de uma vez? Construa um funil de vendas no atacado. Mas Feio, o que isso significa na prÃ¡tica? AtraÃ§Ã£o constante de novos clientes atacados, qualificados. Processos bem definidos para poder atender e qualificar essa demanda. CatÃ¡logo profissional e oportunidades de parcerias bem claras. Previsibilidade de vendas. Pra saber como implementar tudo isso, leia a legenda.
+
+## Transcrição Completa
+
+O dono de atacado, vocÃª tem a impressÃ£o que o seu cliente quase manda em vocÃª? E JoÃ£o, eu vou te dizer aqui que isso Ã© culpa sua. Quando a sua marca nÃ£o tem uma entrada constante de novos clientes e novos revendedores, vocÃª acaba ficando refÃ©m dos seus clientes ativos, dos mesmos clientes sempre. AÃ­ o que acontece? Corre pra cima e pra baixo pra poder atender cliente bem. DÃ¡ desconto quando nÃ£o podia e nÃ£o queria. Perdoa o atraso de pagamento. Vive com medo de perder o seu cliente. E o pior, eles percebem que vocÃª precisa mais deles do que eles de vocÃª. VocÃª quer sair desse ciclo de uma vez? Construa um funil de vendas no atacado. Mas Feio, o que isso significa na prÃ¡tica? AtraÃ§Ã£o constante de novos clientes atacados, qualificados. Processos bem definidos para poder atender e qualificar essa demanda. CatÃ¡logo profissional e oportunidades de parcerias bem claras. Previsibilidade de vendas. Pra saber como implementar tudo isso, leia a legenda.
+
+
+---
+
+## insta_DMYrAMAu5um
+
+# insta_DMYrAMAu5um
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 25s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Felipe, eu quero vender dormindo com o meu atacado. Minha querida, eu vou te dizer um negÃ³cio que eu acho que vocÃª nÃ£o vai gostar muito nÃ£o. Esse negÃ³cio de vender dormindo Ã© sonho de varejo. Vendas transnacionais. No atacado vocÃª pode esquecer. Ã‰ venda consultiva. Precisa de relacionamento. Ã‰ Whatsapp. Ã‰ live. Ã€s vezes atÃ© reuniÃ£o online em vÃ­deo. CatÃ¡logo estratÃ©gico. VocÃª precisa escutar. VocÃª precisa ouvir. VocÃª precisa guiar. Agora, se vocÃª quiser escalar o teu atacado, porÃ©m acordado, comente atacado aqui embaixo.
+
+## Transcrição Completa
+
+Felipe, eu quero vender dormindo com o meu atacado. Minha querida, eu vou te dizer um negÃ³cio que eu acho que vocÃª nÃ£o vai gostar muito nÃ£o. Esse negÃ³cio de vender dormindo Ã© sonho de varejo. Vendas transnacionais. No atacado vocÃª pode esquecer. Ã‰ venda consultiva. Precisa de relacionamento. Ã‰ Whatsapp. Ã‰ live. Ã€s vezes atÃ© reuniÃ£o online em vÃ­deo. CatÃ¡logo estratÃ©gico. VocÃª precisa escutar. VocÃª precisa ouvir. VocÃª precisa guiar. Agora, se vocÃª quiser escalar o teu atacado, porÃ©m acordado, comente atacado aqui embaixo.
+
+
+---
+
+## insta_DMys36YRWMy
+
+# insta_DMys36YRWMy
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 30s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+O seu atacado possui bons produtos, clientes ficam satisfeitos e a maioria compra de novo. Mas vocÃª precisaria ter pelo menos 10 vezes mais clientes do que vocÃª tem hoje. EntÃ£o o que serÃ¡ pra esse mundo que estÃ¡ fazendo de errado? Vou ser bem sincero aqui, atacado que sÃ³ vende produto nÃ£o quer dizer absolutamente nada. Isso Ã© o bÃ¡sico obrigatÃ³rio pra qualquer marca atacada. O avanÃ§ado Ã© um planejamento com estratÃ©gias validadas, modernas e prÃ³prias de mercado atacado pra sua marca conseguir um fluxo constante de novos clientes e uma retenÃ§Ã£o absurda desses clientes. A gente pode te ajudar de forma gratuita a mudar esse jogo. E tudo comeÃ§a com uma reuniÃ£o com o meu time de especialista. Quer saber mais sobre o universo do marketing atacado? Leia a legenda.
+
+## Transcrição Completa
+
+O seu atacado possui bons produtos, clientes ficam satisfeitos e a maioria compra de novo. Mas vocÃª precisaria ter pelo menos 10 vezes mais clientes do que vocÃª tem hoje. EntÃ£o o que serÃ¡ pra esse mundo que estÃ¡ fazendo de errado? Vou ser bem sincero aqui, atacado que sÃ³ vende produto nÃ£o quer dizer absolutamente nada. Isso Ã© o bÃ¡sico obrigatÃ³rio pra qualquer marca atacada. O avanÃ§ado Ã© um planejamento com estratÃ©gias validadas, modernas e prÃ³prias de mercado atacado pra sua marca conseguir um fluxo constante de novos clientes e uma retenÃ§Ã£o absurda desses clientes. A gente pode te ajudar de forma gratuita a mudar esse jogo. E tudo comeÃ§a com uma reuniÃ£o com o meu time de especialista. Quer saber mais sobre o universo do marketing atacado? Leia a legenda.
+
+
+---
+
+## insta_DNeOO7-uNug
+
+# insta_DNeOO7-uNug
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 33s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+EntÃ£o, se vocÃª gasta horas conquistando um cliente atacado e depois ele some, a taxa de recompra do atacado deveria ser a mÃ©trica mais importante do seu negÃ³cio, porque cada vez mais o nosso cliente, o novo cliente, ele Ã© mais caro. Essa baixa recompra, ela pode indicar algumas coisas. Falta de relacionamento no pÃ³s-venda, falta de estratÃ©gia sell-out, ou seja, como vocÃª posiciona a sua marca atacado para poder ajudar o seu cliente em varejo ou venda. Agora, com uma boa taxa de recompra quer dizer que o seu mercado estÃ¡ pronto para poder crescer com estabilidade. Cliente atacado compra mais, com maior frequÃªncia e com maior tique. Esse conceito de estratÃ©gia sell-out Ã© a principal estratÃ©gia uma marca atacada para a gente poder aumentar essa recompra do nosso clientes ativo. Se vocÃª quiser receber um mapa de implementaÃ§Ã£o, escreva sellout aqui embaixo.
+
+## Transcrição Completa
+
+EntÃ£o, se vocÃª gasta horas conquistando um cliente atacado e depois ele some, a taxa de recompra do atacado deveria ser a mÃ©trica mais importante do seu negÃ³cio, porque cada vez mais o nosso cliente, o novo cliente, ele Ã© mais caro. Essa baixa recompra, ela pode indicar algumas coisas. Falta de relacionamento no pÃ³s-venda, falta de estratÃ©gia sell-out, ou seja, como vocÃª posiciona a sua marca atacado para poder ajudar o seu cliente em varejo ou venda. Agora, com uma boa taxa de recompra quer dizer que o seu mercado estÃ¡ pronto para poder crescer com estabilidade. Cliente atacado compra mais, com maior frequÃªncia e com maior tique. Esse conceito de estratÃ©gia sell-out Ã© a principal estratÃ©gia uma marca atacada para a gente poder aumentar essa recompra do nosso clientes ativo. Se vocÃª quiser receber um mapa de implementaÃ§Ã£o, escreva sellout aqui embaixo.
+
+
+---
+
+## insta_DNEXdBLOYZx
+
+# insta_DNEXdBLOYZx
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 28s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Atacaricia, sua agÃªncia de e-commerce prometeu escalar suas vendas no atacado? Deixa eu adivinhar o resultado. Leaks desqualificados, baixa conversÃ£o e ativos que nÃ£o comunicam de forma inteligente com o revendedor. Cops com gatilhos emocionais, sendo que o perfil do revendedor Ã© racional. Por que isso acontece? Porque a agÃªncia de e-commerce trata atacado como se fosse varejo. Ã‰ como contratar um personal para poder treinar um time de futebol. AtÃ© parece que faz sentido, mas o resultado Ã© um desastre. Se vocÃª quer parar de queimar dinheiro com quem nÃ£o entende do seu mercado, clique no botÃ£o e receba uma consultoria individual gratuita com o meu time de especialistas.
+
+## Transcrição Completa
+
+Atacaricia, sua agÃªncia de e-commerce prometeu escalar suas vendas no atacado? Deixa eu adivinhar o resultado. Leaks desqualificados, baixa conversÃ£o e ativos que nÃ£o comunicam de forma inteligente com o revendedor. Cops com gatilhos emocionais, sendo que o perfil do revendedor Ã© racional. Por que isso acontece? Porque a agÃªncia de e-commerce trata atacado como se fosse varejo. Ã‰ como contratar um personal para poder treinar um time de futebol. AtÃ© parece que faz sentido, mas o resultado Ã© um desastre. Se vocÃª quer parar de queimar dinheiro com quem nÃ£o entende do seu mercado, clique no botÃ£o e receba uma consultoria individual gratuita com o meu time de especialistas.
+
+
+---
+
+## insta_DNouWegO-7A
+
+# insta_DNouWegO-7A
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 30s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Se vocÃª Ã© atacado e contratou agÃªncia de e-commerce esperando o resultado, jÃ¡ deve ter descoberto que nÃ£o funciona. A maioria das agÃªncias de e-commerce cria campanhas pra consumidor final, sendo que no atacado a gente vende pra revendedor. A agÃªncia foca em compra transacional, sendo que atacado tem que ter uma jornada mais consultiva. AgÃªncias fazem campanhas pra rÃ¡pida conversÃ£o, sendo que no atacado o ciclo Ã© mais alongado. A agÃªncia usa gatilhos emocionais, sendo que o revendedor Ã© racional. A verdade Ã©, agÃªncias de e-commerce nÃ£o entendem nada de atacado. Eles aplicam a mesma fÃ³rmula de varejo e vocÃª paga pra ver o seu dinheiro queimar. Se vocÃª quer um mÃ©todo criado exclusivamente para marcas de atacado, leia a legenda.
+
+## Transcrição Completa
+
+Se vocÃª Ã© atacado e contratou agÃªncia de e-commerce esperando o resultado, jÃ¡ deve ter descoberto que nÃ£o funciona. A maioria das agÃªncias de e-commerce cria campanhas pra consumidor final, sendo que no atacado a gente vende pra revendedor. A agÃªncia foca em compra transacional, sendo que atacado tem que ter uma jornada mais consultiva. AgÃªncias fazem campanhas pra rÃ¡pida conversÃ£o, sendo que no atacado o ciclo Ã© mais alongado. A agÃªncia usa gatilhos emocionais, sendo que o revendedor Ã© racional. A verdade Ã©, agÃªncias de e-commerce nÃ£o entendem nada de atacado. Eles aplicam a mesma fÃ³rmula de varejo e vocÃª paga pra ver o seu dinheiro queimar. Se vocÃª quer um mÃ©todo criado exclusivamente para marcas de atacado, leia a legenda.
+
+
+---
+
+## insta_DOrqAfAjvrE
+
+# insta_DOrqAfAjvrE
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 1min 6s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+SÃ³ chega ali desqualificado que nÃ£o responde depois que eu mando o catÃ¡logo. O que eu faÃ§o? Essa Ã© uma das principais perguntas que eu recebo todo santo dia aqui nesse Instagram. Mas olha sÃ³, tem um grande problema nessa pergunta. Uma marca atacado sÃ³ deveria enviar o catÃ¡logo depois que qualificasse esse lead. Geralmente, o que mais acontece por aÃ­? O lead manda oi, o vendedor manda toma o catÃ¡logo. Entenda, o lead jÃ¡ te manda uma mensagem querendo receber o catÃ¡logo, Ã© o que ele mais quer. O ponto Ã©, abuse desse momento com inteligÃªncia, use essa ansiedade dele ao seu favor. DaÃ­ quando ele vai mais te ouvir, vai prestar atenÃ§Ã£o porque vocÃª ainda nÃ£o enviou o catÃ¡logo. Uma pergunta de prÃ¡tica que todo mercado atacado deveria fazer. Ei, vocÃª jÃ¡ revende tal nicho ou vai ser a sua primeira vez? Se desperdiÃ§ar esse momento Ã© jogar dinheiro fora. A regra, qualifica primeiro, catÃ¡logo depois. Beleza, jÃ¡ descartamos o problema de qualificaÃ§Ã£o, mas mesmo assim o meu lead nÃ£o me responde. Agora tem dois pontos. O catÃ¡logo Ã© um Ã¡lbum de fotos ou uma ferramenta de conversÃ£o? VocÃª precisa de um catÃ¡logo de primeira compra, que gera conversÃ£o. Ponto 2. Qual sua estratÃ©gia apÃ³s envio do catÃ¡logo? Num atacado, o ciclo de venda Ã© mais alongado. Lead nÃ£o vai comprar na hora. E tÃ¡ tudo bem, Ã© normal. A pergunta Ã©, como vocÃª nutre esse lead? Como vocÃª reativa quem esfriou? Tem estratÃ©gia ou Ã© sorte? Quer descobrir como resolver esse problema de uma vez por todas? Leia a legenda.
+
+## Transcrição Completa
+
+SÃ³ chega ali desqualificado que nÃ£o responde depois que eu mando o catÃ¡logo. O que eu faÃ§o? Essa Ã© uma das principais perguntas que eu recebo todo santo dia aqui nesse Instagram. Mas olha sÃ³, tem um grande problema nessa pergunta. Uma marca atacado sÃ³ deveria enviar o catÃ¡logo depois que qualificasse esse lead. Geralmente, o que mais acontece por aÃ­? O lead manda oi, o vendedor manda toma o catÃ¡logo. Entenda, o lead jÃ¡ te manda uma mensagem querendo receber o catÃ¡logo, Ã© o que ele mais quer. O ponto Ã©, abuse desse momento com inteligÃªncia, use essa ansiedade dele ao seu favor. DaÃ­ quando ele vai mais te ouvir, vai prestar atenÃ§Ã£o porque vocÃª ainda nÃ£o enviou o catÃ¡logo. Uma pergunta de prÃ¡tica que todo mercado atacado deveria fazer. Ei, vocÃª jÃ¡ revende tal nicho ou vai ser a sua primeira vez? Se desperdiÃ§ar esse momento Ã© jogar dinheiro fora. A regra, qualifica primeiro, catÃ¡logo depois. Beleza, jÃ¡ descartamos o problema de qualificaÃ§Ã£o, mas mesmo assim o meu lead nÃ£o me responde. Agora tem dois pontos. O catÃ¡logo Ã© um Ã¡lbum de fotos ou uma ferramenta de conversÃ£o? VocÃª precisa de um catÃ¡logo de primeira compra, que gera conversÃ£o. Ponto 2. Qual sua estratÃ©gia apÃ³s envio do catÃ¡logo? Num atacado, o ciclo de venda Ã© mais alongado. Lead nÃ£o vai comprar na hora. E tÃ¡ tudo bem, Ã© normal. A pergunta Ã©, como vocÃª nutre esse lead? Como vocÃª reativa quem esfriou? Tem estratÃ©gia ou Ã© sorte? Quer descobrir como resolver esse problema de uma vez por todas? Leia a legenda.
+
+
+---
+
+## insta_DOXCzS1jlPw
+
+# insta_DOXCzS1jlPw
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 57s
+- **Locutores identificados:** 2
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+A atacadista essa Ã© a Viviane, dona da Anifil, uma marca atacada de moda fitness que tem como cliente ideal o Logista. Escuta um pouquinho. EntÃ£o vocÃª hoje nÃ£o depende mais apenas dos clientes ativos, nÃ© Vivi?
+
+**[00:08] Speaker B**
+Ã‰, antes eu dependia literalmente deles e hoje uns 45% sÃ£o de novos clientes.
+
+**[00:13] Speaker A**
+Ela estava estagnada, nÃ£o conseguia crescer, dependia dos mesmos clientes sempre. AtÃ© que ela implementou o nosso mÃ©todo e conquistou em trÃªs meses o fluxo previsÃ­vel de novos clientes. Vem escalando mÃªs a mÃªs e hoje 45% do faturamento mensal dela Ã© sÃ³ de novos clientes.
+
+**[00:25] Speaker B**
+Era uma visÃ£o completamente errada que tÃ­nhamos. QuerÃ­amos pegar uma estratÃ©gia de varejo e aplicar em nossa marca, que Ã© 100% atacada.
+
+**[00:31] Speaker A**
+O principal problema das marcas atacadas, e eu falo todos os dias sobre isso no meu perfil,
+
+**[00:35] Speaker B**
+foi uma luz no fim do mundo. Lamentoria, porque nÃ³s estÃ¡vamos batendo muito na trave, mas nÃ£o conquistÃ¡vamos novos clientes. Hoje, com toda a estratÃ©gia, com tudo que foi montado, alÃ©m de conquistarmos, ainda nÃ³s fidelizamos. Porque com todo o conteÃºdo que nÃ³s oferecemos, acaba tambÃ©m fidelizando os clientes.
+
+**[00:50] Speaker A**
+Se vocÃª quer ter acesso a um mÃ©todo de vendas validado prÃ³prio pela Marcas Atacado que querem escalar atravÃ©s da internet, leia a legenda.
+
+## Transcrição Completa
+
+A atacadista essa Ã© a Viviane, dona da Anifil, uma marca atacada de moda fitness que tem como cliente ideal o Logista. Escuta um pouquinho. EntÃ£o vocÃª hoje nÃ£o depende mais apenas dos clientes ativos, nÃ© Vivi? Ã‰, antes eu dependia literalmente deles e hoje uns 45% sÃ£o de novos clientes. Ela estava estagnada, nÃ£o conseguia crescer, dependia dos mesmos clientes sempre. AtÃ© que ela implementou o nosso mÃ©todo e conquistou em trÃªs meses o fluxo previsÃ­vel de novos clientes. Vem escalando mÃªs a mÃªs e hoje 45% do faturamento mensal dela Ã© sÃ³ de novos clientes. Era uma visÃ£o completamente errada que tÃ­nhamos. QuerÃ­amos pegar uma estratÃ©gia de varejo e aplicar em nossa marca, que Ã© 100% atacada. O principal problema das marcas atacadas, e eu falo todos os dias sobre isso no meu perfil, foi uma luz no fim do mundo. Lamentoria, porque nÃ³s estÃ¡vamos batendo muito na trave, mas nÃ£o conquistÃ¡vamos novos clientes. Hoje, com toda a estratÃ©gia, com tudo que foi montado, alÃ©m de conquistarmos, ainda nÃ³s fidelizamos. Porque com todo o conteÃºdo que nÃ³s oferecemos, acaba tambÃ©m fidelizando os clientes. Se vocÃª quer ter acesso a um mÃ©todo de vendas validado prÃ³prio pela Marcas Atacado que querem escalar atravÃ©s da internet, leia a legenda.
+
+
+---
+
+## insta_DOZeEV0juvf
+
+# insta_DOZeEV0juvf
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 39s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Marquei atacado. Esse erro prÃ©-lanÃ§amento de coleÃ§Ã£o vai te custar muito caro. Acredite, lanÃ§ar uma nova coleÃ§Ã£o sem uma estratÃ©gia prÃ©-definida de venda Ã© um dos maiores desperdÃ­cios de dinheiro no atacado. VocÃª se empolga, separa os produtos e quer vender logo. Mas esquece do essencial, planejamento estratÃ©gico de venda. Mas FÃª, como que eu faÃ§o isso? FaÃ§a uma prÃ©-venda ou um prÃ©-lanÃ§amento exclusivo apenas pros seus clientes ativos. Se planeje com antecedÃªncia. No atacado de moda, por exemplo, as coleÃ§Ãµes precisam ser enviadas bem antes das estaÃ§Ãµes. A cada nova coleÃ§Ã£o desenvolve um catÃ¡logo sexo. ForneÃ§a guia rÃ¡pido de venda personalizado a cada nova coleÃ§Ã£o. ComunicaÃ§Ã£o e follow-up pÃ³s-lanÃ§amento de forma precisa. Quem ainda nÃ£o comprou? Quem precisa de algum tipo de incentivo? WhatsApp, e-mail, grupos. Aumente os pontos de contato nessa fase. Quer saber mais sobre estratÃ©gias focadas no atacado? Leia a legenda.
+
+## Transcrição Completa
+
+Marquei atacado. Esse erro prÃ©-lanÃ§amento de coleÃ§Ã£o vai te custar muito caro. Acredite, lanÃ§ar uma nova coleÃ§Ã£o sem uma estratÃ©gia prÃ©-definida de venda Ã© um dos maiores desperdÃ­cios de dinheiro no atacado. VocÃª se empolga, separa os produtos e quer vender logo. Mas esquece do essencial, planejamento estratÃ©gico de venda. Mas FÃª, como que eu faÃ§o isso? FaÃ§a uma prÃ©-venda ou um prÃ©-lanÃ§amento exclusivo apenas pros seus clientes ativos. Se planeje com antecedÃªncia. No atacado de moda, por exemplo, as coleÃ§Ãµes precisam ser enviadas bem antes das estaÃ§Ãµes. A cada nova coleÃ§Ã£o desenvolve um catÃ¡logo sexo. ForneÃ§a guia rÃ¡pido de venda personalizado a cada nova coleÃ§Ã£o. ComunicaÃ§Ã£o e follow-up pÃ³s-lanÃ§amento de forma precisa. Quem ainda nÃ£o comprou? Quem precisa de algum tipo de incentivo? WhatsApp, e-mail, grupos. Aumente os pontos de contato nessa fase. Quer saber mais sobre estratÃ©gias focadas no atacado? Leia a legenda.
+
+
+---
+
+## insta_DPHlihkjtw9
+
+# insta_DPHlihkjtw9
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 38s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Marca atacado, o seu lead atÃ© parece que estÃ¡ interessado, mas ele esfria da noite para o dia e estÃ¡ perdendo vendas por um motivo bem especÃ­fico do mercado atacado. No varejo, uma pessoa vÃª e compra na hora. No atacado, o ciclo Ã© mais alongado e racional. O seu cliente atacado, o revendedor, precisa confiar na sua marca, entender que vai dar retorno, sentir seguranÃ§a para poder fazer o primeiro pedido. Isso nÃ£o acontece apenas no primeiro contato, por isso que vocÃª precisa ter um funil de nutriÃ§Ã£o, campanhas de remarketing que geram confianÃ§a, grupo ou comunidade VIP de interessados, conteÃºdos que educam seu mercado, cases de outros revendedores. Isso vai fazer com que o seu lead aumente a consciÃªncia com relaÃ§Ã£o a sua marca antes mesmo de chegar no comercial. Resultado disso? Leads mais preparados e taxa de conversÃ£o maior. VocÃª quer ter acesso a um mÃ©todo de vendas validado prÃ³prio para marcas de atacado? Leia a legenda.
+
+## Transcrição Completa
+
+Marca atacado, o seu lead atÃ© parece que estÃ¡ interessado, mas ele esfria da noite para o dia e estÃ¡ perdendo vendas por um motivo bem especÃ­fico do mercado atacado. No varejo, uma pessoa vÃª e compra na hora. No atacado, o ciclo Ã© mais alongado e racional. O seu cliente atacado, o revendedor, precisa confiar na sua marca, entender que vai dar retorno, sentir seguranÃ§a para poder fazer o primeiro pedido. Isso nÃ£o acontece apenas no primeiro contato, por isso que vocÃª precisa ter um funil de nutriÃ§Ã£o, campanhas de remarketing que geram confianÃ§a, grupo ou comunidade VIP de interessados, conteÃºdos que educam seu mercado, cases de outros revendedores. Isso vai fazer com que o seu lead aumente a consciÃªncia com relaÃ§Ã£o a sua marca antes mesmo de chegar no comercial. Resultado disso? Leads mais preparados e taxa de conversÃ£o maior. VocÃª quer ter acesso a um mÃ©todo de vendas validado prÃ³prio para marcas de atacado? Leia a legenda.
+
+
+---
+
+## insta_DQ7uE-ADo0d
+
+# insta_DQ7uE-ADo0d
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 41s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+No atacado, a venda sÃ³ comeÃ§a mesmo na reposiÃ§Ã£o. A maioria dos atacados pensa que vendeu quando fechou o primeiro pedido. Erro! No atacado, vocÃª sÃ³ vende quando o seu cliente vende. A primeira venda Ã© um teste. Seu cliente comprou de vocÃª. Na reposiÃ§Ã£o, acontece. para o consumidor final. E Ã© aqui que a mÃ¡gica acontece. Porque quando o seu cliente vende, ele volta para poder comprar mais. E quando ele nÃ£o vende, ele vai mudar de fornecedor. Com isso, marcas atacado campeÃ£s ajudam o seu cliente a vender. Mas como que eu faÃ§o isso? Onboarding de novo revendedor bem estruturado, materiais e sell-out, suporte contÃ­nuo, polÃ­ticas de reposiÃ§Ã£o inteligentes. Seja uma marca parceira e nÃ£o sÃ³ mais um fornecedor. Eu sou Felipe Santos e por aqui eu te mostro as melhores estratÃ©gias para sua marca atacado escalar na internet. EntÃ£o me siga.
+
+## Transcrição Completa
+
+No atacado, a venda sÃ³ comeÃ§a mesmo na reposiÃ§Ã£o. A maioria dos atacados pensa que vendeu quando fechou o primeiro pedido. Erro! No atacado, vocÃª sÃ³ vende quando o seu cliente vende. A primeira venda Ã© um teste. Seu cliente comprou de vocÃª. Na reposiÃ§Ã£o, acontece. para o consumidor final. E Ã© aqui que a mÃ¡gica acontece. Porque quando o seu cliente vende, ele volta para poder comprar mais. E quando ele nÃ£o vende, ele vai mudar de fornecedor. Com isso, marcas atacado campeÃ£s ajudam o seu cliente a vender. Mas como que eu faÃ§o isso? Onboarding de novo revendedor bem estruturado, materiais e sell-out, suporte contÃ­nuo, polÃ­ticas de reposiÃ§Ã£o inteligentes. Seja uma marca parceira e nÃ£o sÃ³ mais um fornecedor. Eu sou Felipe Santos e por aqui eu te mostro as melhores estratÃ©gias para sua marca atacado escalar na internet. EntÃ£o me siga.
+
+
+---
+
+## insta_DQaXCmzjj2q
+
+# insta_DQaXCmzjj2q
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 41s
+- **Locutores identificados:** 2
+
+## Transcrição por Locutor
+
+**[00:00] Speaker B**
+Seu atacado tÃ¡ tipo assim, Ã³. VocÃª conquista um novo evenedor. AÃ­ passa um tempÃ£o.
+
+**[00:04] Speaker A**
+SerÃ¡
+
+**[00:06] Speaker B**
+que vai aparecer mais um? Essa aqui Ã© a quantidade de novos evenedores que vocÃª gostaria de ter entrando na sua marca todo mÃªs. Essa Ã© a diferenÃ§a de um punil travado. para um funil previsÃ­vel. E o que faz a diferenÃ§a entre esses dois cenÃ¡rios? EstratÃ©gia certa de atraÃ§Ã£o de vendedores qualificados e estratÃ©gia certa de ativaÃ§Ã£o e recolha. No atacado exponencial a gente destrava de uma vez por todas esse funil. Criamos uma entrada previsÃ­vel de novos vendedores e ainda desenvolvemos um sistema para ele recomprar e fidelizar na sua marca. Seu atacado nÃ£o precisa ficar travado, ainda dÃ¡ pra mudar isso. Quer destravar de uma vez por todas o seu funil de venda destacado? Leia a legenda.
+
+## Transcrição Completa
+
+Seu atacado tÃ¡ tipo assim, Ã³. VocÃª conquista um novo evenedor. AÃ­ passa um tempÃ£o. SerÃ¡ que vai aparecer mais um? Essa aqui Ã© a quantidade de novos evenedores que vocÃª gostaria de ter entrando na sua marca todo mÃªs. Essa Ã© a diferenÃ§a de um punil travado. para um funil previsÃ­vel. E o que faz a diferenÃ§a entre esses dois cenÃ¡rios? EstratÃ©gia certa de atraÃ§Ã£o de vendedores qualificados e estratÃ©gia certa de ativaÃ§Ã£o e recolha. No atacado exponencial a gente destrava de uma vez por todas esse funil. Criamos uma entrada previsÃ­vel de novos vendedores e ainda desenvolvemos um sistema para ele recomprar e fidelizar na sua marca. Seu atacado nÃ£o precisa ficar travado, ainda dÃ¡ pra mudar isso. Quer destravar de uma vez por todas o seu funil de venda destacado? Leia a legenda.
+
+
+---
+
+## insta_DQDMVHqDhBE
+
+# insta_DQDMVHqDhBE
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 31s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Essa daqui Ã© a mesa de quem jÃ¡ tentou de tudo pra poder escalar a marca atacado, mas nada deu certo. Por exemplo, trÃ¡fego pago. Persona. Instagram varejo. Sabe o que funciona de verdade? EstratÃ©gias certas pra atacar. Entrada previsÃ­vel de novos revendedores e alta recompra de revendedores ativos. Isso daqui Ã© simples, direto e jÃ¡ testado. No atacado exponencial vocÃª para de desperdiÃ§ar tentativa e comeÃ§a a aprender o que realmente funciona. Quer saber mais? LÃª a legenda.
+
+## Transcrição Completa
+
+Essa daqui Ã© a mesa de quem jÃ¡ tentou de tudo pra poder escalar a marca atacado, mas nada deu certo. Por exemplo, trÃ¡fego pago. Persona. Instagram varejo. Sabe o que funciona de verdade? EstratÃ©gias certas pra atacar. Entrada previsÃ­vel de novos revendedores e alta recompra de revendedores ativos. Isso daqui Ã© simples, direto e jÃ¡ testado. No atacado exponencial vocÃª para de desperdiÃ§ar tentativa e comeÃ§a a aprender o que realmente funciona. Quer saber mais? LÃª a legenda.
+
+
+---
+
+## insta_DRfocnsDv5e
+
+# insta_DRfocnsDv5e
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 40s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Posso ser sincero com vocÃª? A maioria das marcas atacadas chega em dezembro e termina dezembro sem saber o que funcionou e o que nÃ£o funcionou no ano. NÃ£o sabe qual canal trouxe mais clientes. NÃ£o sabe a porcentagem de novos e recorrentes. NÃ£o sabem quantos clientes fidelizaram. E aÃ­ entra 2026 repetindo os mesmos erros. Eu vejo isso acontecer todo ano. Marcas com potencial enorme, mas que vivem no improviso. E olha, nÃ£o Ã© culpa sua. O mercado atacado simplesmente nÃ£o ensina sobre isso. Mas aqueles atacados que param, se planejam e definem estratÃ©gias claras Essas crescem de verdade. Ã‰ exatamente por isso que eu criei o Workshop do Atacar Transponencial para Planejamento EstratÃ©gico de 2020. Pra vocÃª sair de 2025 com clareza e comeÃ§ar 2026 com mÃ©todo. Dia 9 de dezembro Ã s 19h. Escreva planejamento aqui nos comentÃ¡rios e garanto o seu lugar.
+
+## Transcrição Completa
+
+Posso ser sincero com vocÃª? A maioria das marcas atacadas chega em dezembro e termina dezembro sem saber o que funcionou e o que nÃ£o funcionou no ano. NÃ£o sabe qual canal trouxe mais clientes. NÃ£o sabe a porcentagem de novos e recorrentes. NÃ£o sabem quantos clientes fidelizaram. E aÃ­ entra 2026 repetindo os mesmos erros. Eu vejo isso acontecer todo ano. Marcas com potencial enorme, mas que vivem no improviso. E olha, nÃ£o Ã© culpa sua. O mercado atacado simplesmente nÃ£o ensina sobre isso. Mas aqueles atacados que param, se planejam e definem estratÃ©gias claras Essas crescem de verdade. Ã‰ exatamente por isso que eu criei o Workshop do Atacar Transponencial para Planejamento EstratÃ©gico de 2020. Pra vocÃª sair de 2025 com clareza e comeÃ§ar 2026 com mÃ©todo. Dia 9 de dezembro Ã s 19h. Escreva planejamento aqui nos comentÃ¡rios e garanto o seu lugar.
+
+
+---
+
+## insta_DRiVvmAjlAH
+
+# insta_DRiVvmAjlAH
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 34s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+O maior erro que marcas de atacado cometem no digital Ã© usar a estratÃ©gia varejo pra poder vender no atacado. No varejo vocÃª vende desejo, no atacado vocÃª vende negÃ³cio e sÃ£o mundos completamente diferentes. Enquanto vocÃª nÃ£o entender isso, vocÃª nunca vai escalar o seu atacado. Ã‰ como vocÃª tentar pescar um tubarÃ£o com uma isca de peixinho. Como ajustar isso? Defina seu ICP algo. Tenha polÃ­ticas de atacado realmente atrativas. Alinhe a comunicaÃ§Ã£o do seu marketing. Estruture um comercial campeÃ£o. E ative Funis de Vendas Atacado, onde escala sua marca atacada de verdade aqui na internet. Eu sou Felipe Santos e por aqui eu te mostro os principais fratÃ©is para sua marca escalar de verdade no sujeitÃ£o. EntÃ£o jÃ¡ me segue aqui.
+
+## Transcrição Completa
+
+O maior erro que marcas de atacado cometem no digital Ã© usar a estratÃ©gia varejo pra poder vender no atacado. No varejo vocÃª vende desejo, no atacado vocÃª vende negÃ³cio e sÃ£o mundos completamente diferentes. Enquanto vocÃª nÃ£o entender isso, vocÃª nunca vai escalar o seu atacado. Ã‰ como vocÃª tentar pescar um tubarÃ£o com uma isca de peixinho. Como ajustar isso? Defina seu ICP algo. Tenha polÃ­ticas de atacado realmente atrativas. Alinhe a comunicaÃ§Ã£o do seu marketing. Estruture um comercial campeÃ£o. E ative Funis de Vendas Atacado, onde escala sua marca atacada de verdade aqui na internet. Eu sou Felipe Santos e por aqui eu te mostro os principais fratÃ©is para sua marca escalar de verdade no sujeitÃ£o. EntÃ£o jÃ¡ me segue aqui.
+
+
+---
+
+## insta_DRpu5Itjg34
+
+# insta_DRpu5Itjg34
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 42s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Meu atacado tÃ¡ travado hÃ¡ anos no mesmo faturamento. O que que eu faÃ§o? Primeira coisa, vocÃª precisa entender que a escala de uma marca atacada depende de dois fatores. Entrada de novos revendedores e alta recompra de revendedores ativos. E ponto. Isso Ã© o que eu chamo de equaÃ§Ã£o exponencial de uma marca atacada. Agora, vocÃª precisa olhar pra trÃ¡s e identificar qual que Ã© o seu principal problema. Entrada ou recompra? Se o problema for entrada, corrija trÃªs coisas. Marketing que comunica atacado e atrai elites qualificados. Comercial que realmente converte. E funis de venda que realmente funcionam no seu mercado. Agora, se o seu programa for recompra, crie um sistema que os seus servidores dependem da sua marca e faÃ§a um controle avanÃ§ado da sua base de clientes. Ã‰ isso. Simples, mas nÃ£o tÃ£o fÃ¡cil. Eu sou Felipe Santos e por aqui eu te mostro as principais estratÃ©gias pra sua marca escalar de verdade aqui na internet. EntÃ£o, jÃ¡ comeÃ§a a me seguir aqui.
+
+## Transcrição Completa
+
+Meu atacado tÃ¡ travado hÃ¡ anos no mesmo faturamento. O que que eu faÃ§o? Primeira coisa, vocÃª precisa entender que a escala de uma marca atacada depende de dois fatores. Entrada de novos revendedores e alta recompra de revendedores ativos. E ponto. Isso Ã© o que eu chamo de equaÃ§Ã£o exponencial de uma marca atacada. Agora, vocÃª precisa olhar pra trÃ¡s e identificar qual que Ã© o seu principal problema. Entrada ou recompra? Se o problema for entrada, corrija trÃªs coisas. Marketing que comunica atacado e atrai elites qualificados. Comercial que realmente converte. E funis de venda que realmente funcionam no seu mercado. Agora, se o seu programa for recompra, crie um sistema que os seus servidores dependem da sua marca e faÃ§a um controle avanÃ§ado da sua base de clientes. Ã‰ isso. Simples, mas nÃ£o tÃ£o fÃ¡cil. Eu sou Felipe Santos e por aqui eu te mostro as principais estratÃ©gias pra sua marca escalar de verdade aqui na internet. EntÃ£o, jÃ¡ comeÃ§a a me seguir aqui.
+
+
+---
+
+## insta_DRX1f6Jjtq5
+
+# insta_DRX1f6Jjtq5
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 35s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Revenedor compra uma vez e nunca mais volta. Se vocÃª tÃ¡ com esse problema na sua marca atacado, vocÃª tem que ligar o alerta vermelho. Porque o ouro do atacado Ã© justamente a recompra. Ã‰ aqui que mora a grande vantagem do nosso mercado atacadista. Pensa comigo, a primeira compra do revenedor sempre vai ser um teste. O potencial real dele com vocÃª sempre vai morar nas recompras. Se ele receber um bom pÃ³s-venda e girou o produto, acabou, ele vai recomprar. NÃ£o tem por que ele nÃ£o volta. Agora, se ele nÃ£o receber um bom pÃ³s-venda e teve dificuldade de girar o produto, aÃ­ temos que rever algumas coisas com urgÃªncia na sua marca. Porque o lucro real do atacado estÃ¡ nas recompras. Eu sou Felipe Santos e por aqui eu te mostro as principais estratÃ©gias para a sua marca escalar de verdade na internet. EntÃ£o jÃ¡ me segue por aqui.
+
+## Transcrição Completa
+
+Revenedor compra uma vez e nunca mais volta. Se vocÃª tÃ¡ com esse problema na sua marca atacado, vocÃª tem que ligar o alerta vermelho. Porque o ouro do atacado Ã© justamente a recompra. Ã‰ aqui que mora a grande vantagem do nosso mercado atacadista. Pensa comigo, a primeira compra do revenedor sempre vai ser um teste. O potencial real dele com vocÃª sempre vai morar nas recompras. Se ele receber um bom pÃ³s-venda e girou o produto, acabou, ele vai recomprar. NÃ£o tem por que ele nÃ£o volta. Agora, se ele nÃ£o receber um bom pÃ³s-venda e teve dificuldade de girar o produto, aÃ­ temos que rever algumas coisas com urgÃªncia na sua marca. Porque o lucro real do atacado estÃ¡ nas recompras. Eu sou Felipe Santos e por aqui eu te mostro as principais estratÃ©gias para a sua marca escalar de verdade na internet. EntÃ£o jÃ¡ me segue por aqui.
+
+
+---
+
+## insta_DTdv7BRknBZ
+
+# insta_DTdv7BRknBZ
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 41s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Olha, eu queria saber quem foi que inventou esse negÃ³cio de atacarijo. NÃ£o me entra na cabeÃ§a essa palavra. Vou te explicar. Atacado e varijo sÃ£o muitos tÃ£o distantes que querer resumir as duas coisas numa Ãºnica palavra, pra mim, Ã© posicionamento errado. De marca que nÃ£o conhece o seu cliente. Vamos entender. O que define uma marca atacado Ã© se vocÃª vende pro seu cliente revender. E o que define uma marca varejo Ã© se vocÃª vende pro seu cliente consumir. E ponto. Ou seja, o seu atacado nÃ£o tÃ¡ vinculado Ã  sua polÃ­tica de primeira compra. NÃ£o importa se a sua primeira compra tem um mÃ­nimo mais acessÃ­vel. O que importa Ã© o seu cliente. Resumindo, existem marcas que sÃ£o atacado e varejo. E existem marcas que sÃ£o apenas atacado ou apenas varejo. Mas nÃ£o atacarijo. Concorda comigo ou nÃ£o? Deixa sua opiniÃ£o aqui nos comentÃ¡rios e me segue pra mais conteÃºdos de atacado.
+
+## Transcrição Completa
+
+Olha, eu queria saber quem foi que inventou esse negÃ³cio de atacarijo. NÃ£o me entra na cabeÃ§a essa palavra. Vou te explicar. Atacado e varijo sÃ£o muitos tÃ£o distantes que querer resumir as duas coisas numa Ãºnica palavra, pra mim, Ã© posicionamento errado. De marca que nÃ£o conhece o seu cliente. Vamos entender. O que define uma marca atacado Ã© se vocÃª vende pro seu cliente revender. E o que define uma marca varejo Ã© se vocÃª vende pro seu cliente consumir. E ponto. Ou seja, o seu atacado nÃ£o tÃ¡ vinculado Ã  sua polÃ­tica de primeira compra. NÃ£o importa se a sua primeira compra tem um mÃ­nimo mais acessÃ­vel. O que importa Ã© o seu cliente. Resumindo, existem marcas que sÃ£o atacado e varejo. E existem marcas que sÃ£o apenas atacado ou apenas varejo. Mas nÃ£o atacarijo. Concorda comigo ou nÃ£o? Deixa sua opiniÃ£o aqui nos comentÃ¡rios e me segue pra mais conteÃºdos de atacado.
+
+
+---
+
+## insta_DUgv6PkEjQR
+
+# insta_DUgv6PkEjQR
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 55s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Por que atacados no improviso quebraram em 2026? A verdade nÃ£o Ã© crua aqui sobre o mercado atacado. NÃ£o Ã© de hoje que o mercado vem se profissionalizando do atacado. E as marcas amadoras que fazem, enquanto antigamente nÃ£o acompanham esse movimento, acabam ficando fora de campo. E 2026 tende a ser um ano divisor de Ã¡gua para muitos. E aqui vÃ£o alguns sinais que a sua marca atacado ainda estÃ¡ no improviso. NÃ£o segmenta os seus vendedores em ativos ou inativos e perdidos e nÃ£o sabe exatamente quantos vendedores ativos vocÃª tem. NÃ£o mede sua taxa de recompra, nÃ£o tem previsibilidade de novos e nÃ£o mede a taxa de perda de quantos clientes ativos se inativam. Agora, o que profissionalizaÃ§Ã£o no atacado significa realmente? Um time forte comercial de insight ser esfocado Departamento de Recompra com foco em retenÃ§Ã£o de clientes. Um controle absurdo de avanÃ§ado da sua base de clientes. E todas as principais mÃ©tricas do seu atacado acompanhado semanalmente. Ou seja, pra vocÃª poder escalar o seu atacado hoje, nÃ£o dÃ¡ pra contar mais com a sorte igual antigamente. VocÃª precisa ter mÃ©todo. Se vocÃª quer sair do improviso e profissionalizar o seu atacado ainda esse ano, jÃ¡ me segue por aqui.
+
+## Transcrição Completa
+
+Por que atacados no improviso quebraram em 2026? A verdade nÃ£o Ã© crua aqui sobre o mercado atacado. NÃ£o Ã© de hoje que o mercado vem se profissionalizando do atacado. E as marcas amadoras que fazem, enquanto antigamente nÃ£o acompanham esse movimento, acabam ficando fora de campo. E 2026 tende a ser um ano divisor de Ã¡gua para muitos. E aqui vÃ£o alguns sinais que a sua marca atacado ainda estÃ¡ no improviso. NÃ£o segmenta os seus vendedores em ativos ou inativos e perdidos e nÃ£o sabe exatamente quantos vendedores ativos vocÃª tem. NÃ£o mede sua taxa de recompra, nÃ£o tem previsibilidade de novos e nÃ£o mede a taxa de perda de quantos clientes ativos se inativam. Agora, o que profissionalizaÃ§Ã£o no atacado significa realmente? Um time forte comercial de insight ser esfocado Departamento de Recompra com foco em retenÃ§Ã£o de clientes. Um controle absurdo de avanÃ§ado da sua base de clientes. E todas as principais mÃ©tricas do seu atacado acompanhado semanalmente. Ou seja, pra vocÃª poder escalar o seu atacado hoje, nÃ£o dÃ¡ pra contar mais com a sorte igual antigamente. VocÃª precisa ter mÃ©todo. Se vocÃª quer sair do improviso e profissionalizar o seu atacado ainda esse ano, jÃ¡ me segue por aqui.
+
+
+---
+
+## insta_DUqofAYjpm4
+
+# insta_DUqofAYjpm4
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 59s
+- **Locutores identificados:** 2
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Por que o cliente pede catÃ¡logo no atacado e depois some? Pede, baixa, olha, desaparece, nÃ£o responde, nÃ£o compra e nÃ£o dÃ¡ satisfaÃ§Ã£o. O motivo disso tem vÃ¡rios, mas o principal que eu mais vejo sÃ£o catÃ¡logos no atacado apenas como Ã¡lbum de fotos e nÃ£o realmente como uma ferramenta de venda. Por exemplo, um catÃ¡logo sem uma estratÃ©gia de primeira compra desperdiÃ§a todo o investimento que vocÃª fez pra poder atrair o revendedor atÃ© ali. E o pior, vocÃª perde a chance de conversÃ£o na hora que ele tÃ¡ mais interessado, porque o que ele mais quer quando te manda mensagem Ã© o quÃª? CatÃ¡logo. CatÃ¡logos sem um guia de revenda, onde vocÃª mostra a jornada que ele tem de parceria com a sua marca. CatÃ¡logos com polÃ­ticas genÃ©ricas, sem uma atraÃ§Ã£o pra primeira compra. CatÃ¡logos sem prova social. NÃ£o remove as principais objeÃ§Ãµes de primeira compra. NÃ£o educa o seu revendedor. Sem um mix estratÃ©gico de produtos. Quando vocÃª implementa um catÃ¡logo atacado, realmente estratÃ©gico, vocÃª jÃ¡ aumenta a sua taxa de conversÃ£o de novos revendedores. Reduz o ciclo de compra, porque vocÃª jÃ¡ gera mais confianÃ§a pro seu cliente. E pode atÃ© aumentar o seu ticket mÃ©dio de primeira compra. Se vocÃª quer profissionalizar o seu atacado, jÃ¡ me segue pra mais dicas.
+
+**[00:58] Speaker B**
+Legendas pela comunidade Amara.org
+
+## Transcrição Completa
+
+Por que o cliente pede catÃ¡logo no atacado e depois some? Pede, baixa, olha, desaparece, nÃ£o responde, nÃ£o compra e nÃ£o dÃ¡ satisfaÃ§Ã£o. O motivo disso tem vÃ¡rios, mas o principal que eu mais vejo sÃ£o catÃ¡logos no atacado apenas como Ã¡lbum de fotos e nÃ£o realmente como uma ferramenta de venda. Por exemplo, um catÃ¡logo sem uma estratÃ©gia de primeira compra desperdiÃ§a todo o investimento que vocÃª fez pra poder atrair o revendedor atÃ© ali. E o pior, vocÃª perde a chance de conversÃ£o na hora que ele tÃ¡ mais interessado, porque o que ele mais quer quando te manda mensagem Ã© o quÃª? CatÃ¡logo. CatÃ¡logos sem um guia de revenda, onde vocÃª mostra a jornada que ele tem de parceria com a sua marca. CatÃ¡logos com polÃ­ticas genÃ©ricas, sem uma atraÃ§Ã£o pra primeira compra. CatÃ¡logos sem prova social. NÃ£o remove as principais objeÃ§Ãµes de primeira compra. NÃ£o educa o seu revendedor. Sem um mix estratÃ©gico de produtos. Quando vocÃª implementa um catÃ¡logo atacado, realmente estratÃ©gico, vocÃª jÃ¡ aumenta a sua taxa de conversÃ£o de novos revendedores. Reduz o ciclo de compra, porque vocÃª jÃ¡ gera mais confianÃ§a pro seu cliente. E pode atÃ© aumentar o seu ticket mÃ©dio de primeira compra. Se vocÃª quer profissionalizar o seu atacado, jÃ¡ me segue pra mais dicas. Legendas pela comunidade Amara.org
+
+
+---
+
+## insta_DVeOQJ3jo2o
+
+# insta_DVeOQJ3jo2o
+
+## Metadados
+
+- **Processado em:** 11/03/2026 21:21 UTC
+- **Duração total:** 39s
+- **Locutores identificados:** 1
+
+## Transcrição por Locutor
+
+**[00:00] Speaker A**
+Marca atacado, pare de gastar dinheiro com trÃ¡fego pago atÃ© assistir isso daqui, porque vocÃª tÃ¡ jogando dinheiro fora. Vamos ao ponto, vocÃª investe 3, 5, 10 mil reais em anÃºncios, chega uma porrada de leads aÃ­ dentro, mas ele perde o catÃ¡logo e tchau. ConversÃ£o baixa, caque altÃ­ssimo, prejuÃ­zo na certa. Sabe por que disso? Porque vocÃª tÃ¡ investindo em topo de funil sem ter um comercial estruturado embaixo. TrÃ¡fego pago sÃ³ funciona no atacado quando vocÃª tem um CRM organizado pra nÃ£o perder leads, sequÃªncia comercial pronta pra qualificaÃ§Ã£o, follow ups, time comercial eficiente processos de venda estruturado. Se vocÃª nÃ£o tem isso pronto, vocÃª tÃ¡ queimando dinheiro. Lid entra, nÃ£o converte e vai pro concorrente. Esse Ã© um dos pontos que vocÃª precisa ter antes de ligar qualquer campanha de trÃ¡fego pago. Quer saber mais? Leia a legenda.
+
+## Transcrição Completa
+
+Marca atacado, pare de gastar dinheiro com trÃ¡fego pago atÃ© assistir isso daqui, porque vocÃª tÃ¡ jogando dinheiro fora. Vamos ao ponto, vocÃª investe 3, 5, 10 mil reais em anÃºncios, chega uma porrada de leads aÃ­ dentro, mas ele perde o catÃ¡logo e tchau. ConversÃ£o baixa, caque altÃ­ssimo, prejuÃ­zo na certa. Sabe por que disso? Porque vocÃª tÃ¡ investindo em topo de funil sem ter um comercial estruturado embaixo. TrÃ¡fego pago sÃ³ funciona no atacado quando vocÃª tem um CRM organizado pra nÃ£o perder leads, sequÃªncia comercial pronta pra qualificaÃ§Ã£o, follow ups, time comercial eficiente processos de venda estruturado. Se vocÃª nÃ£o tem isso pronto, vocÃª tÃ¡ queimando dinheiro. Lid entra, nÃ£o converte e vai pro concorrente. Esse Ã© um dos pontos que vocÃª precisa ter antes de ligar qualquer campanha de trÃ¡fego pago. Quer saber mais? Leia a legenda.
+
+
+---
+
 ## workshop-atacado
 
 # workshop-atacado

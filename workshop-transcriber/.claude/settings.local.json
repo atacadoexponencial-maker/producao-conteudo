@@ -31,7 +31,17 @@
       "Read(//c/Users/marce/.claude/**)",
       "mcp__claude_ai_Canva__list-brand-kits",
       "mcp__claude_ai_Canva__generate-design",
-      "mcp__claude_ai_Canva__create-design-from-candidate"
+      "mcp__claude_ai_Canva__create-design-from-candidate",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/yt-dlp --version)",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/yt-dlp --extract-audio --audio-format mp3 --output \"/tmp/test_insta.%\\(ext\\)s\" \"https://www.instagram.com/p/DC690moROTl/\" 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/python processar_instagram.py 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\\\\output\" && mv insta_DUqofAYjpm4.json workshop_audio_1J_qU4wcG9t9ihriK_blvP90cDb5xCvcq.json)",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\\\\output\" && python -c \"\nimport json\nfiles = ['insta_DC690moROTl.json', 'insta_DDNt0ckxcBh.json', 'insta_DGgHQibx9jv.json']\nfor f in files:\n    data = json.load\\(open\\(f, encoding='utf-8'\\)\\)\n    print\\(f'=== {f} ==='\\)\n    print\\('Duração:', data.get\\('duration'\\), 's'\\)\n    print\\('Início:', data.get\\('text',''\\)[:150]\\)\n    print\\(\\)\n\")",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\\\\output\" && rm insta_*.json)",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/python -c \"\nimport subprocess, sys\nfrom pathlib import Path\nimport tempfile, shutil\n\npost_id = 'DC690moROTl'\nurl = 'https://www.instagram.com/p/DC690moROTl/'\naudio_dir = Path\\(tempfile.gettempdir\\(\\)\\) / 'workshop_audio'\naudio_dir.mkdir\\(parents=True, exist_ok=True\\)\ndestino = str\\(audio_dir / f'{post_id}.mp3'\\)\nyt_dlp = str\\(Path\\(sys.executable\\).parent / 'yt-dlp'\\)\n\ncmd = [yt_dlp, '--extract-audio', '--audio-format', 'mp3', '--output', destino, '--force-overwrites', url]\nr = subprocess.run\\(cmd, capture_output=True, text=True\\)\nprint\\('returncode:', r.returncode\\)\nprint\\('arquivo:', destino\\)\nimport os\nprint\\('existe:', os.path.exists\\(destino\\)\\)\n\" 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\\\\output\" && python -c \"\nimport json\nfiles = ['insta_DC690moROTl.json', 'insta_DDNt0ckxcBh.json', 'insta_DGgHQibx9jv.json']\nfor f in files:\n    data = json.load\\(open\\(f, encoding='utf-8'\\)\\)\n    print\\(f'=== {f} ==='\\)\n    print\\('Duração:', data.get\\('duration'\\), 's'\\)\n    print\\('Início:', data.get\\('text',''\\)[:120]\\)\n    print\\(\\)\n\")",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && for f in output/insta_*.json; do echo \"Formatando $f...\"; .venv/Scripts/python .claude/skills/format-transcript/formatter.py \"$f\"; done 2>&1)",
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/python .claude/skills/build-knowledge-base/builder.py 2>&1)"
     ]
   }
 }

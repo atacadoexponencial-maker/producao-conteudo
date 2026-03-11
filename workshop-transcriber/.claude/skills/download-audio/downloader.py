@@ -32,11 +32,13 @@ def _encontrar_ffmpeg() -> str | None:
 
 
 def _detectar_origem(url: str) -> str:
-    """Detecta se a URL é do YouTube ou Google Drive."""
+    """Detecta se a URL é do YouTube, Google Drive ou Instagram."""
     if "youtube.com" in url or "youtu.be" in url:
         return "youtube"
     if "drive.google.com" in url:
         return "google_drive"
+    if "instagram.com" in url:
+        return "instagram"
     return "desconhecido"
 
 
@@ -112,7 +114,10 @@ def download_audio(source: str) -> str:
     if origem == "google_drive":
         return _baixar_google_drive(source)
 
-    raise ValueError("❌ URL não reconhecida. Use um link do YouTube ou Google Drive.")
+    if origem == "instagram":
+        return _baixar_youtube(source)  # yt-dlp suporta Instagram nativamente
+
+    raise ValueError("❌ URL não reconhecida. Use um link do YouTube, Google Drive ou Instagram.")
 
 
 if __name__ == "__main__":
