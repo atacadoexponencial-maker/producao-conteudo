@@ -28,7 +28,10 @@
       "Bash(cd \"/c/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/python .claude/skills/build-knowledge-base/builder.py)",
       "Bash(cd \"/c/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/pip install watchdog -q)",
       "Bash(claude mcp:*)",
-      "Read(//c/Users/marce/.claude/**)"
+      "Read(//c/Users/marce/.claude/**)",
+      "mcp__claude_ai_Canva__list-brand-kits",
+      "mcp__claude_ai_Canva__generate-design",
+      "mcp__claude_ai_Canva__create-design-from-candidate"
     ]
   }
 }
