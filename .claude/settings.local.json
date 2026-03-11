@@ -9,7 +9,8 @@
       "mcp__claude_ai_ClickUp__clickup_find_member_by_name",
       "mcp__claude_ai_ClickUp__clickup_get_list",
       "mcp__claude_ai_ClickUp__clickup_get_task",
-      "mcp__claude_ai_ClickUp__clickup_search"
+      "mcp__claude_ai_ClickUp__clickup_search",
+      "Read(//tmp/**)"
     ]
   }
 }
