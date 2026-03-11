@@ -22,7 +22,11 @@
       "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/python .claude/skills/download-audio/downloader.py \"https://drive.google.com/file/d/1J_qU4wcG9t9ihriK_blvP90cDb5xCvcq/view?usp=sharing\" 2>&1)",
       "Bash(file \"C:/Users/marce/AppData/Local/Temp/workshop_audio/jggm8cca.part\" 2>&1 || python -c \"\nwith open\\('C:/Users/marce/AppData/Local/Temp/workshop_audio/jggm8cca.part', 'rb'\\) as f:\n    header = f.read\\(12\\)\nprint\\('Header bytes:', header.hex\\(\\)\\)\nprint\\('Header ascii:', header\\)\n\")",
       "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/python .claude/skills/transcribe-audio/transcription.py \"C:/Users/marce/AppData/Local/Temp/workshop_audio/workshop_audio_1J_qU4wcG9t9ihriK_blvP90cDb5xCvcq.mp4\" pt 2>&1)",
-      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/python .claude/skills/format-transcript/formatter.py \"output/workshop_audio_1J_qU4wcG9t9ihriK_blvP90cDb5xCvcq.json\" 2>&1)"
+      "Bash(cd \"C:\\\\Users\\\\marce\\\\OneDrive\\\\02. Pessoal\\\\Estudo\\\\Aprendizado_ia\\\\producao-conteudo\\\\workshop-transcriber\" && .venv/Scripts/python .claude/skills/format-transcript/formatter.py \"output/workshop_audio_1J_qU4wcG9t9ihriK_blvP90cDb5xCvcq.json\" 2>&1)",
+      "Bash(cd \"/c/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/python -c \"import pymupdf\" 2>&1)",
+      "Bash(cd \"/c/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/pip install pymupdf -q)",
+      "Bash(cd \"/c/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/python .claude/skills/build-knowledge-base/builder.py)",
+      "Bash(cd \"/c/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/pip install watchdog -q)"
     ]
   }
 }
