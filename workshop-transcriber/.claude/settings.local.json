@@ -4,7 +4,9 @@
       "Bash(cd \"C:/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/python .claude/skills/download-audio/downloader.py \"https://www.youtube.com/watch?v=hgLpzI85-cs\" 2>&1)",
       "Bash(cd \"C:/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/python .claude/skills/transcribe-audio/transcription.py \"C:/Users/marce/AppData/Local/Temp/workshop_audio/RAG 3.0 Subagentes + Virtual File System  Nova Arquitetura.mp3\" pt 2>&1)",
       "Bash(cd \"C:/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/python .claude/skills/transcribe-audio/transcription.py \"C:/Users/marce/AppData/Local/Temp/workshop_audio/RAG 3.0： Subagentes + Virtual File System ｜ Nova Arquitetura.mp3\" pt 2>&1)",
-      "Bash(cd \"C:/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/python .claude/skills/format-transcript/formatter.py \"output/rag-3-subagentes-virtual-file-system.json\" 2>&1)"
+      "Bash(cd \"C:/Users/marce/OneDrive/02. Pessoal/Estudo/Aprendizado_ia/producao-conteudo/workshop-transcriber\" && .venv/Scripts/python .claude/skills/format-transcript/formatter.py \"output/rag-3-subagentes-virtual-file-system.json\" 2>&1)",
+      "WebFetch(domain:atacadoexponencial.com)",
+      "Bash(powershell -Command \"& '.venv\\\\Scripts\\\\python.exe' 'C:\\\\Users\\\\marce\\\\AppData\\\\Local\\\\Temp\\\\pdf_convert.py'\")"
     ]
   }
 }
