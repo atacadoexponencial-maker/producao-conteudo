@@ -2,7 +2,14 @@
   "permissions": {
     "allow": [
       "Bash(python -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\(''''mcpServers'''', {}\\), indent=2\\)\\)\")",
-      "Bash(curl -s -X POST \"http://127.0.0.1:29979/mcp\" -H \"Content-Type: application/json\" -d '{\"jsonrpc\":\"2.0\",\"method\":\"initialize\",\"params\":{},\"id\":1}' 2>&1 | head -50)"
+      "Bash(curl -s -X POST \"http://127.0.0.1:29979/mcp\" -H \"Content-Type: application/json\" -d '{\"jsonrpc\":\"2.0\",\"method\":\"initialize\",\"params\":{},\"id\":1}' 2>&1 | head -50)",
+      "WebSearch",
+      "mcp__claude_ai_ClickUp__clickup_get_workspace_hierarchy",
+      "mcp__claude_ai_ClickUp__clickup_create_task",
+      "mcp__claude_ai_ClickUp__clickup_find_member_by_name",
+      "mcp__claude_ai_ClickUp__clickup_get_list",
+      "mcp__claude_ai_ClickUp__clickup_get_task",
+      "mcp__claude_ai_ClickUp__clickup_search"
     ]
   }
 }
